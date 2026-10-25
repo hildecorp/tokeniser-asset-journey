@@ -1,0 +1,13 @@
+{
+  "name": "tokeniser-asset-journey",
+  "private": true,
+  "description": "Tokenisation explainer: from an Australian farmland fund to a compliant token on Redbelly Network, through Tokeniser.",
+  "scripts": {
+    "serve": "python3 -m http.server 8123 --bind 127.0.0.1",
+    "build": "tools/build_all.sh",
+    "check": "python3 tools/check.py"
+  },
+  "devDependencies": {
+    "playwright": "1.63.0"
+  }
+}

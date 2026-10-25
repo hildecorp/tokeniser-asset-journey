@@ -1,0 +1,9 @@
+Alba speech corpus: rights statement, as published by the University of Edinburgh DataShare
+Retrieved 2026-10-25 16:10 UTC from https://datashare.ed.ac.uk/handle/10283/3270
+
+Citation: Valentini-Botinhao, Cassia; Yamagishi, Junichi. (2019). Alba speech corpus, [dataset]. University of Edinburgh. https://doi.org/10.7488/ds/2506.
+Handle: https://hdl.handle.net/10283/3270
+DOI: https://doi.org/10.7488/ds/2506
+
+Rights (verbatim):
+The dataset is released under the Creative Commons License: Attribution 4.0 International http://creativecommons.org/licenses/by/4.0/legalcode . The Creative Commons licence does not affect the moral rights of the voice talent with respect to the recordings. Any use derogatory to the voice talent is prohibited. Please note the following section of the Creative Commons licence under which this dataset is released: "b. Other rights. 1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise."

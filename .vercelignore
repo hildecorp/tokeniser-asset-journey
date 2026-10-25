@@ -1,5 +1,4 @@
 tools/
-evidence/
 build/
 node_modules/
 *.py

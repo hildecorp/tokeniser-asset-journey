@@ -45,9 +45,13 @@
       ],
       "onscreen": [
         "From real-world asset to compliant token",
-        "Tokeniser on Redbelly Network"
+        "Tokeniser on Redbelly Network",
+        "Set up",
+        "Investors",
+        "Issue",
+        "Transfer"
       ],
-      "visual": "Dark slate opening. A single token outline draws itself, then the journey rail appears: four stops labelled Set up, Investors, Issue, Transfer.",
+      "visual": "Dark slate opening. A token draws itself and fills with Tokeniser mint, the title appears, then a four stop journey rail (Set up, Investors, Issue, Transfer) draws in. The dark layer lifts away and the rail settles at the top right, where it tracks progress for the rest of the video.",
       "claims": []
     },
     {
@@ -72,7 +76,7 @@
         "Admin system",
         "Updated after the fact"
       ],
-      "visual": "Isometric farmland draws in line by line inside a frame labelled as the fund. A row of unit tiles sits beneath it, linked to investors. The register appears as three disconnected documents with a lagging clock.",
+      "visual": "Isometric farmland builds up parcel by parcel inside a dashed frame that marks the fund. A row of unit tiles appears below it, linked to three investors. On the right, the register today appears as three separate documents (spreadsheet, email, admin system) with broken links between them and a clock.",
       "claims": [
         {
           "claim": "Fund registers today are commonly kept across separate systems and updated after the fact.",
@@ -98,10 +102,11 @@
         }
       ],
       "onscreen": [
+        "The idea",
         "Ownership, recorded as digital tokens",
         "Rules, programmed in"
       ],
-      "visual": "The farmland stays exactly where it is. The unit tiles lift out of the old register and turn into tokens. A small rules mark settles into each token.",
+      "visual": "The farmland stays where it is and the old register fades. The unit tiles lift and turn into tokens. A small rules badge settles onto each token.",
       "claims": [
         {
           "claim": "Tokenisation records ownership as digital tokens and lets the issuer program the rules of the asset.",
@@ -122,12 +127,15 @@
         }
       ],
       "onscreen": [
+        "Platform and network",
         "Tokeniser",
         "Familiar platform",
+        "Australian farmland fund",
+        "Units, as tokens",
         "Redbelly Network",
         "Public digital token infrastructure"
       ],
-      "visual": "A light Tokeniser platform layer slides in. The camera tilts down to reveal the dark Redbelly Network layer running underneath it. These two layers stay on screen as the stage for the four steps.",
+      "visual": "A Tokeniser platform window slides in and the tokens settle into it. Then the dark Redbelly Network layer rises in underneath the window, with the Redbelly logo and a chain of blocks. These two layers stay on screen as the stage for the four steps.",
       "claims": [
         {
           "claim": "Tokeniser is a familiar platform with Redbelly Network running underneath it, described as Australia's public digital token infrastructure.",
@@ -155,12 +163,16 @@
       "onscreen": [
         "Step 1",
         "Set up",
+        "Fund setup",
+        "Australian farmland fund",
+        "Pending",
         "Fund verified",
-        "Rules encoded into the token",
+        "Rules",
         "Wholesale investors only",
-        "Transfer restrictions"
+        "Transfer restrictions",
+        "Rules encoded into the token"
       ],
-      "visual": "On the Tokeniser layer, a fund setup card ticks Fund verified. Rule chips snap into the token one by one and lock in.",
+      "visual": "In the platform window, the fund setup card changes from Pending to Fund verified. Two rule chips, Wholesale investors only and Transfer restrictions, appear and fly to the token, which gains a rules badge and a lock.",
       "claims": [
         {
           "claim": "Setup includes entity verification and defining compliance rules.",
@@ -193,14 +205,15 @@
       "onscreen": [
         "Step 2",
         "Investors",
-        "Verified through Averer",
+        "Averer",
         "Identity verified",
         "Investor classified",
-        "Wallet on Redbelly Network",
         "Not verified",
-        "No tokens"
+        "No tokens",
+        "Verified through Averer",
+        "Wallet on Redbelly Network"
       ],
-      "visual": "Three investors pass through a verification gate. Two are verified and receive a wallet that drops onto the Redbelly layer. A third is not verified and gets no wallet.",
+      "visual": "A verification scan labelled Averer passes over three investor cards. Two investors are verified and their wallets drop onto the Redbelly Network layer. The third is not verified and gets no wallet and no tokens.",
       "claims": [
         {
           "claim": "Investors are verified through Averer before they can transact.",
@@ -238,11 +251,13 @@
       "onscreen": [
         "Step 3",
         "Issue",
-        "Minted on Redbelly Network",
         "Register",
-        "Updated"
+        "Live",
+        "Updated",
+        "Minted on Redbelly Network",
+        "Register updated"
       ],
-      "visual": "Tokens are minted on the Redbelly layer and travel up into the verified wallets. The register panel fills its rows at the same moment.",
+      "visual": "A block on the Redbelly Network layer lights up and tokens are minted from it into the two verified wallets. At the same moment the register in the platform window fills in and marks each row Updated.",
       "claims": [
         {
           "claim": "Tokens are minted on Redbelly Network and transferred to verified investor wallets.",
@@ -270,11 +285,15 @@
       "onscreen": [
         "Step 4",
         "Transfer",
-        "Checked against the rules",
+        "Rules check",
+        "Wholesale investors only",
+        "Transfer restrictions",
         "Ineligible investor",
-        "Rejected"
+        "Rejected",
+        "Checked against the rules",
+        "Ineligible investor: rejected"
       ],
-      "visual": "A holder tries to send a token to an ineligible investor. It reaches the rules check, the check fails and the token returns to its holder.",
+      "visual": "A token leaves the first wallet for the rules check in the platform window, addressed to an ineligible investor. The Wholesale investors only rule fails, the transfer is stamped Rejected and the token returns to its wallet. Nothing reaches the network.",
       "claims": [
         {
           "claim": "Every transfer is checked against the rules before it is processed.",
@@ -300,12 +319,14 @@
         }
       ],
       "onscreen": [
+        "Eligible investor",
         "Checks passed",
         "Settles in seconds",
         "Transfer and payment, together",
-        "Final"
+        "Final",
+        "Final once confirmed"
       ],
-      "visual": "A transfer to an eligible investor passes every check. Token and payment cross on the Redbelly layer at the same moment and a final seal locks the block.",
+      "visual": "The same token is sent to an eligible investor. Both rules pass. On the Redbelly Network layer the token and the payment cross between the two wallets at the same block, which then locks and is marked Final.",
       "claims": [
         {
           "claim": "Compliant transfers settle on Redbelly Network in seconds.",
@@ -336,14 +357,20 @@
         }
       ],
       "onscreen": [
+        "Audit trail",
         "Recorded",
+        "Audit log",
         "Check",
         "Transfer",
         "Rejection",
+        "10:41:52",
+        "10:42:05",
+        "10:42:06",
         "Auditors",
-        "Regulators"
+        "Regulators",
+        "Ready for auditors and regulators"
       ],
-      "visual": "The events of the last two steps stack into one audit record that stays current, then fans out to three readers.",
+      "visual": "The platform window shows an audit log: a check, a transfer and a rejection, each marked Recorded, while matching blocks lock on the network layer. Two readers, Auditors and Regulators, connect to the log.",
       "claims": [
         {
           "claim": "Every check, transfer and rejection is recorded and available to administrators, auditors and regulators.",
@@ -364,11 +391,12 @@
         }
       ],
       "onscreen": [
+        "The result",
         "Same farmland, same fund.",
         "Now compliant tokens on Redbelly Network",
         "Issued through Tokeniser"
       ],
-      "visual": "The camera pulls back to the farmland from the opening, now linked to its tokens on the Redbelly layer. All four rail stops are complete.",
+      "visual": "The farmland returns at the top, unchanged, linked by dashed lines to the tokens held in the wallets on the Redbelly Network layer. All four steps on the rail are complete.",
       "claims": [
         {
           "claim": "Tokeniser issues compliant tokens representing ownership interests on Redbelly Network.",
@@ -393,7 +421,7 @@
         "tokeniser.com",
         "Illustrative example. General information only, not financial advice."
       ],
-      "visual": "Tokeniser logo above the Redbelly Network logo on a calm slate end card, with the web address and the illustrative example note.",
+      "visual": "Calm slate end card: the Tokeniser logo, Built on Redbelly Network with the Redbelly Network logo, tokeniser.com and the illustrative example note.",
       "claims": [
         {
           "claim": "Tokeniser is built on Redbelly Network.",
@@ -402,5 +430,6 @@
         }
       ]
     }
-  ]
+  ],
+  "onscreen_note": "Times in the audit log are illustrative machine values. Logos are the official Tokeniser and Redbelly Network marks and carry no other text."
 }

@@ -535,7 +535,7 @@
     if (t < s2.start - 0.5 || (t > S('s05').start + 0.6 && t < s11.start - 1)) return;
 
     // farmland: builds in s02, moves left in s03, leaves in s04, returns in s11
-    const build = p(t, Wd('l02', 'farmland') - 0.55, 2.0, ease.linear);
+    const build = p(t, s2.start - 0.1, 2.2, ease.linear);
     const pos = kf(t, [
       [s3.start - 0.1, { x: 560, y: 500, s: 1.0, a: 1 }],
       [s3.start + 0.9, { x: 420, y: 530, s: 0.78, a: 1 }],
