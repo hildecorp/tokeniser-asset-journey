@@ -230,7 +230,7 @@
       o.icon(ctx, ix, y, s, o.iconColor || o.color || C.ink);
     }
     text(ctx, label, x0 + padX + iconW, y + size * 0.36, {
-      size, weight: o.weight || 500, color: o.color || C.ink, mono: o.mono, tracking: o.tracking,
+      size, weight: o.weight || 500, color: o.color || C.ink, mono: o.mono, tracking: o.tracking, audit: o.audit,
     });
     ctx.restore();
     return w;

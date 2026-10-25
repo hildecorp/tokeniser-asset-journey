@@ -419,7 +419,7 @@
     ctx.drawImage(STATIC.band, 0, by);
     ctx.globalAlpha = outA;
     const la = p(t, Wd('l04', 'redbelly') - 0.1, 0.6);
-    logo(ctx, IMG.rbWhite, 96 - (1 - la) * 20, by + 26, 50, la);
+    logo(ctx, IMG.rbDark, 96 - (1 - la) * 20, by + 26, 50, la);
     const sa = p(t, Wd('l04', 'public') - 0.1, 0.6);
     text(ctx, 'PUBLIC DIGITAL TOKEN INFRASTRUCTURE', 96, by + 112, { size: 17, weight: 500, mono: true, color: C.onDark3, tracking: 0.12, alpha: sa });
     text(ctx, 'Redbelly Network', 96, by + 152, { size: 22, weight: 400, color: C.onDark2, alpha: sa * (1 - p(t, S('s05').start, 0.5)) });
@@ -1154,12 +1154,12 @@
     ctx.translate(0, (1 - k) * -E.H);
     ctx.drawImage(STATIC.dark, 0, 0);
     const a1 = p(t, s12 + 0.35, 0.8);
-    const lw = (IMG.tokeniserWhite.width / IMG.tokeniserWhite.height) * 84;
-    logo(ctx, IMG.tokeniserWhite, 960 - lw / 2, 330 + (1 - a1) * 20, 84, a1);
+    const lw = (IMG.tokeniserDark.width / IMG.tokeniserDark.height) * 84;
+    logo(ctx, IMG.tokeniserDark, 960 - lw / 2, 330 + (1 - a1) * 20, 84, a1);
     const a2 = p(t, s12 + 0.75, 0.8);
     text(ctx, 'Built on Redbelly Network', 960, 520, { size: 30, weight: 400, color: C.onDark2, align: 'center', alpha: a2 });
-    const rw = (IMG.rbWhite.width / IMG.rbWhite.height) * 54;
-    logo(ctx, IMG.rbWhite, 960 - rw / 2, 556, 54, a2);
+    const rw = (IMG.rbDark.width / IMG.rbDark.height) * 54;
+    logo(ctx, IMG.rbDark, 960 - rw / 2, 556, 54, a2);
     const a3 = p(t, s12 + 1.15, 0.8);
     text(ctx, 'tokeniser.com', 960, 720, { size: 30, weight: 500, color: C.mint, align: 'center', mono: true, alpha: a3 });
     const a4 = p(t, s12 + 1.4, 0.8);
@@ -1292,8 +1292,8 @@
     for (const f of fonts) document.fonts.add(await f.load());
     IMG = {
       tokeniser: await loadImage(`${base}/assets/brand/tokeniser-logo.svg`, [['width="100%"', 'width="1090"'], ['height="100%"', 'height="180"']]),
-      tokeniserWhite: await loadImage(`${base}/assets/brand/tokeniser-logo.svg`, [['#343740', '#FFFFFF'], ['width="100%"', 'width="1090"'], ['height="100%"', 'height="180"']]),
-      rbWhite: await loadImage(`${base}/assets/brand/redbelly-horizontal-white.svg`, [['viewBox="0 0 1080 300"', 'width="1080" height="300" viewBox="0 0 1080 300"']]),
+      tokeniserDark: await loadImage(`${base}/assets/brand/tokeniser-logo-on-dark.png`),
+      rbDark: await loadImage(`${base}/assets/brand/redbelly-horizontal-negative.svg`, [['viewBox="0 0 1080 300"', 'width="1080" height="300" viewBox="0 0 1080 300"']]),
     };
     buildStatic();
     return D;
