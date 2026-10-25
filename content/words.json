@@ -1,0 +1,974 @@
+{
+ "l01": [
+  {
+   "w": "How",
+   "start": 1.2,
+   "end": 1.37
+  },
+  {
+   "w": "does",
+   "start": 1.37,
+   "end": 1.49
+  },
+  {
+   "w": "a",
+   "start": 1.49,
+   "end": 1.61
+  },
+  {
+   "w": "real-world",
+   "start": 1.61,
+   "end": 2.11
+  },
+  {
+   "w": "asset",
+   "start": 2.11,
+   "end": 2.41
+  },
+  {
+   "w": "become",
+   "start": 2.41,
+   "end": 2.77
+  },
+  {
+   "w": "a",
+   "start": 2.77,
+   "end": 3.03
+  },
+  {
+   "w": "token?",
+   "start": 3.03,
+   "end": 3.37
+  },
+  {
+   "w": "Let's",
+   "start": 4.17,
+   "end": 4.41
+  },
+  {
+   "w": "follow",
+   "start": 4.41,
+   "end": 4.61
+  },
+  {
+   "w": "one",
+   "start": 4.61,
+   "end": 4.81
+  },
+  {
+   "w": "asset,",
+   "start": 4.81,
+   "end": 5.21
+  },
+  {
+   "w": "step",
+   "start": 5.69,
+   "end": 5.95
+  },
+  {
+   "w": "by",
+   "start": 5.95,
+   "end": 6.17
+  },
+  {
+   "w": "step.",
+   "start": 6.17,
+   "end": 6.51
+  }
+ ],
+ "l02": [
+  {
+   "w": "Meet",
+   "start": 7.228,
+   "end": 7.478
+  },
+  {
+   "w": "an",
+   "start": 7.478,
+   "end": 7.698
+  },
+  {
+   "w": "Australian",
+   "start": 7.698,
+   "end": 8.178
+  },
+  {
+   "w": "farmland",
+   "start": 8.178,
+   "end": 8.658
+  },
+  {
+   "w": "fund.",
+   "start": 8.658,
+   "end": 9.218
+  },
+  {
+   "w": "Investors",
+   "start": 9.758,
+   "end": 9.858
+  },
+  {
+   "w": "hold",
+   "start": 9.858,
+   "end": 10.218
+  },
+  {
+   "w": "its",
+   "start": 10.218,
+   "end": 10.418
+  },
+  {
+   "w": "units,",
+   "start": 10.418,
+   "end": 10.738
+  },
+  {
+   "w": "and",
+   "start": 10.738,
+   "end": 11.298
+  },
+  {
+   "w": "the",
+   "start": 11.298,
+   "end": 11.418
+  },
+  {
+   "w": "register",
+   "start": 11.418,
+   "end": 11.678
+  },
+  {
+   "w": "sits",
+   "start": 11.678,
+   "end": 12.058
+  },
+  {
+   "w": "across",
+   "start": 12.058,
+   "end": 12.378
+  },
+  {
+   "w": "separate",
+   "start": 12.378,
+   "end": 12.718
+  },
+  {
+   "w": "systems,",
+   "start": 12.718,
+   "end": 13.298
+  },
+  {
+   "w": "updated",
+   "start": 13.558,
+   "end": 13.958
+  },
+  {
+   "w": "after",
+   "start": 13.958,
+   "end": 14.378
+  },
+  {
+   "w": "the",
+   "start": 14.378,
+   "end": 14.538
+  },
+  {
+   "w": "fact.",
+   "start": 14.538,
+   "end": 14.798
+  }
+ ],
+ "l03": [
+  {
+   "w": "Tokenisation",
+   "start": 15.48,
+   "end": 16.17
+  },
+  {
+   "w": "records",
+   "start": 16.17,
+   "end": 16.69
+  },
+  {
+   "w": "that",
+   "start": 16.69,
+   "end": 17.01
+  },
+  {
+   "w": "ownership",
+   "start": 17.01,
+   "end": 17.31
+  },
+  {
+   "w": "as",
+   "start": 17.31,
+   "end": 17.71
+  },
+  {
+   "w": "digital",
+   "start": 17.71,
+   "end": 18.01
+  },
+  {
+   "w": "tokens,",
+   "start": 18.01,
+   "end": 18.51
+  },
+  {
+   "w": "with",
+   "start": 18.83,
+   "end": 18.95
+  },
+  {
+   "w": "the",
+   "start": 18.95,
+   "end": 19.11
+  },
+  {
+   "w": "fund's",
+   "start": 19.11,
+   "end": 19.25
+  },
+  {
+   "w": "rules",
+   "start": 19.25,
+   "end": 19.61
+  },
+  {
+   "w": "programmed",
+   "start": 19.61,
+   "end": 20.03
+  },
+  {
+   "w": "in.",
+   "start": 20.03,
+   "end": 20.37
+  }
+ ],
+ "l04": [
+  {
+   "w": "The",
+   "start": 20.949,
+   "end": 21.059
+  },
+  {
+   "w": "manager",
+   "start": 21.059,
+   "end": 21.279
+  },
+  {
+   "w": "uses",
+   "start": 21.279,
+   "end": 21.719
+  },
+  {
+   "w": "Tokeniser,",
+   "start": 21.719,
+   "end": 22.339
+  },
+  {
+   "w": "a",
+   "start": 22.659,
+   "end": 22.739
+  },
+  {
+   "w": "familiar",
+   "start": 22.739,
+   "end": 22.999
+  },
+  {
+   "w": "platform.",
+   "start": 22.999,
+   "end": 23.599
+  },
+  {
+   "w": "Underneath",
+   "start": 23.979,
+   "end": 24.359
+  },
+  {
+   "w": "runs",
+   "start": 24.359,
+   "end": 24.659
+  },
+  {
+   "w": "Redbelly",
+   "start": 24.659,
+   "end": 25.279
+  },
+  {
+   "w": "Network,",
+   "start": 25.279,
+   "end": 25.739
+  },
+  {
+   "w": "Australia's",
+   "start": 26.099,
+   "end": 26.659
+  },
+  {
+   "w": "public",
+   "start": 26.659,
+   "end": 26.999
+  },
+  {
+   "w": "digital",
+   "start": 26.999,
+   "end": 27.319
+  },
+  {
+   "w": "token",
+   "start": 27.319,
+   "end": 27.699
+  },
+  {
+   "w": "infrastructure.",
+   "start": 27.699,
+   "end": 28.239
+  }
+ ],
+ "l05": [
+  {
+   "w": "Step",
+   "start": 29.137,
+   "end": 29.427
+  },
+  {
+   "w": "one:",
+   "start": 29.427,
+   "end": 30.007
+  },
+  {
+   "w": "set",
+   "start": 30.007,
+   "end": 30.147
+  },
+  {
+   "w": "up.",
+   "start": 30.147,
+   "end": 30.487
+  },
+  {
+   "w": "The",
+   "start": 30.827,
+   "end": 30.887
+  },
+  {
+   "w": "fund",
+   "start": 30.887,
+   "end": 31.067
+  },
+  {
+   "w": "is",
+   "start": 31.067,
+   "end": 31.267
+  },
+  {
+   "w": "verified,",
+   "start": 31.267,
+   "end": 31.707
+  },
+  {
+   "w": "and",
+   "start": 31.707,
+   "end": 32.467
+  },
+  {
+   "w": "its",
+   "start": 32.467,
+   "end": 32.647
+  },
+  {
+   "w": "rules,",
+   "start": 32.647,
+   "end": 32.987
+  },
+  {
+   "w": "like",
+   "start": 33.427,
+   "end": 33.527
+  },
+  {
+   "w": "wholesale",
+   "start": 33.527,
+   "end": 33.887
+  },
+  {
+   "w": "investors",
+   "start": 33.887,
+   "end": 34.347
+  },
+  {
+   "w": "only,",
+   "start": 34.347,
+   "end": 34.747
+  },
+  {
+   "w": "are",
+   "start": 35.127,
+   "end": 35.287
+  },
+  {
+   "w": "encoded",
+   "start": 35.287,
+   "end": 35.647
+  },
+  {
+   "w": "into",
+   "start": 35.647,
+   "end": 36.007
+  },
+  {
+   "w": "the",
+   "start": 36.007,
+   "end": 36.167
+  },
+  {
+   "w": "token.",
+   "start": 36.167,
+   "end": 36.427
+  }
+ ],
+ "l06": [
+  {
+   "w": "Step",
+   "start": 37.151,
+   "end": 37.401
+  },
+  {
+   "w": "two:",
+   "start": 37.401,
+   "end": 37.781
+  },
+  {
+   "w": "investors.",
+   "start": 38.121,
+   "end": 38.441
+  },
+  {
+   "w": "Each",
+   "start": 38.961,
+   "end": 39.061
+  },
+  {
+   "w": "is",
+   "start": 39.061,
+   "end": 39.241
+  },
+  {
+   "w": "verified",
+   "start": 39.241,
+   "end": 39.661
+  },
+  {
+   "w": "through",
+   "start": 39.661,
+   "end": 40.001
+  },
+  {
+   "w": "Averer,",
+   "start": 40.001,
+   "end": 40.741
+  },
+  {
+   "w": "then",
+   "start": 40.741,
+   "end": 40.961
+  },
+  {
+   "w": "gets",
+   "start": 40.961,
+   "end": 41.241
+  },
+  {
+   "w": "a",
+   "start": 41.241,
+   "end": 41.441
+  },
+  {
+   "w": "wallet",
+   "start": 41.441,
+   "end": 41.641
+  },
+  {
+   "w": "on",
+   "start": 41.641,
+   "end": 41.861
+  },
+  {
+   "w": "Redbelly",
+   "start": 41.861,
+   "end": 42.421
+  },
+  {
+   "w": "Network",
+   "start": 42.421,
+   "end": 42.741
+  },
+  {
+   "w": "to",
+   "start": 42.741,
+   "end": 43.001
+  },
+  {
+   "w": "hold",
+   "start": 43.001,
+   "end": 43.281
+  },
+  {
+   "w": "tokens.",
+   "start": 43.281,
+   "end": 43.681
+  }
+ ],
+ "l07": [
+  {
+   "w": "Step",
+   "start": 44.456,
+   "end": 44.726
+  },
+  {
+   "w": "three:",
+   "start": 44.726,
+   "end": 45.266
+  },
+  {
+   "w": "issue.",
+   "start": 45.266,
+   "end": 45.566
+  },
+  {
+   "w": "Tokens",
+   "start": 46.246,
+   "end": 46.296
+  },
+  {
+   "w": "are",
+   "start": 46.246,
+   "end": 46.546
+  },
+  {
+   "w": "minted",
+   "start": 46.546,
+   "end": 46.886
+  },
+  {
+   "w": "on",
+   "start": 46.886,
+   "end": 47.026
+  },
+  {
+   "w": "Redbelly",
+   "start": 47.026,
+   "end": 47.506
+  },
+  {
+   "w": "Network",
+   "start": 47.506,
+   "end": 47.806
+  },
+  {
+   "w": "into",
+   "start": 47.806,
+   "end": 48.086
+  },
+  {
+   "w": "verified",
+   "start": 48.086,
+   "end": 48.506
+  },
+  {
+   "w": "wallets,",
+   "start": 48.506,
+   "end": 48.966
+  },
+  {
+   "w": "and",
+   "start": 49.286,
+   "end": 49.366
+  },
+  {
+   "w": "the",
+   "start": 49.366,
+   "end": 49.466
+  },
+  {
+   "w": "register",
+   "start": 49.466,
+   "end": 49.746
+  },
+  {
+   "w": "updates",
+   "start": 49.746,
+   "end": 50.246
+  },
+  {
+   "w": "immediately.",
+   "start": 50.246,
+   "end": 50.646
+  }
+ ],
+ "l08": [
+  {
+   "w": "Step",
+   "start": 51.422,
+   "end": 52.032
+  },
+  {
+   "w": "four:",
+   "start": 52.032,
+   "end": 52.432
+  },
+  {
+   "w": "transfer.",
+   "start": 52.792,
+   "end": 53.112
+  },
+  {
+   "w": "Every",
+   "start": 53.112,
+   "end": 53.498
+  },
+  {
+   "w": "transfer",
+   "start": 53.498,
+   "end": 53.884
+  },
+  {
+   "w": "is",
+   "start": 53.884,
+   "end": 54.27
+  },
+  {
+   "w": "checked",
+   "start": 54.27,
+   "end": 54.656
+  },
+  {
+   "w": "against",
+   "start": 54.656,
+   "end": 55.042
+  },
+  {
+   "w": "the",
+   "start": 55.042,
+   "end": 55.428
+  },
+  {
+   "w": "rules",
+   "start": 55.428,
+   "end": 55.814
+  },
+  {
+   "w": "first.",
+   "start": 55.814,
+   "end": 56.2
+  },
+  {
+   "w": "A",
+   "start": 56.2,
+   "end": 56.587
+  },
+  {
+   "w": "transfer",
+   "start": 56.587,
+   "end": 56.973
+  },
+  {
+   "w": "to",
+   "start": 56.973,
+   "end": 57.359
+  },
+  {
+   "w": "an",
+   "start": 57.359,
+   "end": 57.745
+  },
+  {
+   "w": "ineligible",
+   "start": 57.745,
+   "end": 58.131
+  },
+  {
+   "w": "investor",
+   "start": 58.131,
+   "end": 58.517
+  },
+  {
+   "w": "is",
+   "start": 58.517,
+   "end": 58.903
+  },
+  {
+   "w": "rejected.",
+   "start": 58.903,
+   "end": 59.289
+  }
+ ],
+ "l09": [
+  {
+   "w": "A",
+   "start": 59.689,
+   "end": 59.799
+  },
+  {
+   "w": "compliant",
+   "start": 59.799,
+   "end": 60.139
+  },
+  {
+   "w": "one",
+   "start": 60.139,
+   "end": 60.419
+  },
+  {
+   "w": "settles",
+   "start": 60.419,
+   "end": 60.779
+  },
+  {
+   "w": "on",
+   "start": 60.779,
+   "end": 61.039
+  },
+  {
+   "w": "Redbelly",
+   "start": 61.039,
+   "end": 61.559
+  },
+  {
+   "w": "in",
+   "start": 61.559,
+   "end": 61.799
+  },
+  {
+   "w": "seconds.",
+   "start": 61.799,
+   "end": 62.319
+  },
+  {
+   "w": "When",
+   "start": 63.019,
+   "end": 63.099
+  },
+  {
+   "w": "investors",
+   "start": 63.099,
+   "end": 63.459
+  },
+  {
+   "w": "hold",
+   "start": 63.459,
+   "end": 63.879
+  },
+  {
+   "w": "their",
+   "start": 63.879,
+   "end": 64.079
+  },
+  {
+   "w": "own",
+   "start": 64.079,
+   "end": 64.279
+  },
+  {
+   "w": "wallets,",
+   "start": 64.279,
+   "end": 64.659
+  },
+  {
+   "w": "transfer",
+   "start": 65.259,
+   "end": 65.379
+  },
+  {
+   "w": "and",
+   "start": 65.379,
+   "end": 65.759
+  },
+  {
+   "w": "payment",
+   "start": 65.759,
+   "end": 66.059
+  },
+  {
+   "w": "complete",
+   "start": 66.059,
+   "end": 66.499
+  },
+  {
+   "w": "together.",
+   "start": 66.499,
+   "end": 66.979
+  },
+  {
+   "w": "Once",
+   "start": 67.659,
+   "end": 67.899
+  },
+  {
+   "w": "confirmed,",
+   "start": 67.899,
+   "end": 68.439
+  },
+  {
+   "w": "it",
+   "start": 68.859,
+   "end": 68.959
+  },
+  {
+   "w": "is",
+   "start": 68.959,
+   "end": 69.099
+  },
+  {
+   "w": "final.",
+   "start": 69.099,
+   "end": 69.399
+  }
+ ],
+ "l10": [
+  {
+   "w": "Every",
+   "start": 70.098,
+   "end": 70.348
+  },
+  {
+   "w": "check,",
+   "start": 70.348,
+   "end": 70.608
+  },
+  {
+   "w": "transfer",
+   "start": 70.608,
+   "end": 71.088
+  },
+  {
+   "w": "and",
+   "start": 71.088,
+   "end": 71.328
+  },
+  {
+   "w": "rejection",
+   "start": 71.328,
+   "end": 71.788
+  },
+  {
+   "w": "is",
+   "start": 71.788,
+   "end": 72.088
+  },
+  {
+   "w": "recorded,",
+   "start": 72.088,
+   "end": 72.628
+  },
+  {
+   "w": "ready",
+   "start": 73.048,
+   "end": 73.288
+  },
+  {
+   "w": "for",
+   "start": 73.288,
+   "end": 73.608
+  },
+  {
+   "w": "auditors",
+   "start": 73.608,
+   "end": 74.108
+  },
+  {
+   "w": "and",
+   "start": 74.108,
+   "end": 74.388
+  },
+  {
+   "w": "regulators.",
+   "start": 74.388,
+   "end": 74.928
+  }
+ ],
+ "l11": [
+  {
+   "w": "Same",
+   "start": 75.714,
+   "end": 75.984
+  },
+  {
+   "w": "farmland,",
+   "start": 75.984,
+   "end": 76.384
+  },
+  {
+   "w": "same",
+   "start": 76.904,
+   "end": 77.124
+  },
+  {
+   "w": "fund.",
+   "start": 77.124,
+   "end": 77.584
+  },
+  {
+   "w": "Its",
+   "start": 77.904,
+   "end": 78.004
+  },
+  {
+   "w": "units",
+   "start": 78.004,
+   "end": 78.284
+  },
+  {
+   "w": "are",
+   "start": 78.284,
+   "end": 78.644
+  },
+  {
+   "w": "now",
+   "start": 78.644,
+   "end": 78.804
+  },
+  {
+   "w": "compliant",
+   "start": 78.804,
+   "end": 79.164
+  },
+  {
+   "w": "tokens",
+   "start": 79.164,
+   "end": 79.604
+  },
+  {
+   "w": "on",
+   "start": 79.604,
+   "end": 79.844
+  },
+  {
+   "w": "Redbelly",
+   "start": 79.844,
+   "end": 80.384
+  },
+  {
+   "w": "Network,",
+   "start": 80.384,
+   "end": 80.804
+  },
+  {
+   "w": "issued",
+   "start": 80.804,
+   "end": 81.324
+  },
+  {
+   "w": "through",
+   "start": 81.324,
+   "end": 81.624
+  },
+  {
+   "w": "Tokeniser.",
+   "start": 81.624,
+   "end": 82.104
+  }
+ ]
+}

@@ -1,0 +1,258 @@
+{
+ "cues": [
+  {
+   "line": "l01",
+   "start": 1.08,
+   "end": 3.62,
+   "lines": [
+    "How does a real-world",
+    "asset become a token?"
+   ]
+  },
+  {
+   "line": "l01",
+   "start": 4.05,
+   "end": 6.76,
+   "lines": [
+    "Let's follow one asset, step by step."
+   ]
+  },
+  {
+   "line": "l02",
+   "start": 7.108,
+   "end": 9.468,
+   "lines": [
+    "Meet an Australian farmland fund."
+   ]
+  },
+  {
+   "line": "l02",
+   "start": 9.638,
+   "end": 10.538,
+   "lines": [
+    "Investors hold its units,"
+   ]
+  },
+  {
+   "line": "l02",
+   "start": 10.618,
+   "end": 15.048,
+   "lines": [
+    "and the register sits across separate",
+    "systems, updated after the fact."
+   ]
+  },
+  {
+   "line": "l03",
+   "start": 15.36,
+   "end": 18.63,
+   "lines": [
+    "Tokenisation records that",
+    "ownership as digital tokens,"
+   ]
+  },
+  {
+   "line": "l03",
+   "start": 18.71,
+   "end": 20.62,
+   "lines": [
+    "with the fund's rules programmed in."
+   ]
+  },
+  {
+   "line": "l04",
+   "start": 20.829,
+   "end": 23.779,
+   "lines": [
+    "The manager uses Tokeniser,",
+    "a familiar platform."
+   ]
+  },
+  {
+   "line": "l04",
+   "start": 23.859,
+   "end": 25.899,
+   "lines": [
+    "Underneath runs Redbelly Network,"
+   ]
+  },
+  {
+   "line": "l04",
+   "start": 25.979,
+   "end": 28.489,
+   "lines": [
+    "Australia's public digital",
+    "token infrastructure."
+   ]
+  },
+  {
+   "line": "l05",
+   "start": 29.017,
+   "end": 30.627,
+   "lines": [
+    "Step one: set up."
+   ]
+  },
+  {
+   "line": "l05",
+   "start": 30.707,
+   "end": 33.227,
+   "lines": [
+    "The fund is verified, and its rules,"
+   ]
+  },
+  {
+   "line": "l05",
+   "start": 33.307,
+   "end": 36.677,
+   "lines": [
+    "like wholesale investors only,",
+    "are encoded into the token."
+   ]
+  },
+  {
+   "line": "l06",
+   "start": 37.031,
+   "end": 38.691,
+   "lines": [
+    "Step two: investors."
+   ]
+  },
+  {
+   "line": "l06",
+   "start": 38.841,
+   "end": 40.541,
+   "lines": [
+    "Each is verified through Averer,"
+   ]
+  },
+  {
+   "line": "l06",
+   "start": 40.621,
+   "end": 43.931,
+   "lines": [
+    "then gets a wallet on",
+    "Redbelly Network to hold tokens."
+   ]
+  },
+  {
+   "line": "l07",
+   "start": 44.336,
+   "end": 45.816,
+   "lines": [
+    "Step three: issue."
+   ]
+  },
+  {
+   "line": "l07",
+   "start": 46.126,
+   "end": 49.086,
+   "lines": [
+    "Tokens are minted on Redbelly Network",
+    "into verified wallets,"
+   ]
+  },
+  {
+   "line": "l07",
+   "start": 49.166,
+   "end": 50.896,
+   "lines": [
+    "and the register updates immediately."
+   ]
+  },
+  {
+   "line": "l08",
+   "start": 51.302,
+   "end": 52.912,
+   "lines": [
+    "Step four: transfer."
+   ]
+  },
+  {
+   "line": "l08",
+   "start": 52.992,
+   "end": 56.0,
+   "lines": [
+    "Every transfer is checked",
+    "against the rules first."
+   ]
+  },
+  {
+   "line": "l08",
+   "start": 56.08,
+   "end": 59.489,
+   "lines": [
+    "A transfer to an ineligible",
+    "investor is rejected."
+   ]
+  },
+  {
+   "line": "l09",
+   "start": 59.569,
+   "end": 62.569,
+   "lines": [
+    "A compliant one settles",
+    "on Redbelly in seconds."
+   ]
+  },
+  {
+   "line": "l09",
+   "start": 62.899,
+   "end": 67.229,
+   "lines": [
+    "When investors hold their own wallets,",
+    "transfer and payment complete together."
+   ]
+  },
+  {
+   "line": "l09",
+   "start": 67.539,
+   "end": 69.649,
+   "lines": [
+    "Once confirmed, it is final."
+   ]
+  },
+  {
+   "line": "l10",
+   "start": 69.978,
+   "end": 72.848,
+   "lines": [
+    "Every check, transfer and",
+    "rejection is recorded,"
+   ]
+  },
+  {
+   "line": "l10",
+   "start": 72.928,
+   "end": 75.178,
+   "lines": [
+    "ready for auditors and regulators."
+   ]
+  },
+  {
+   "line": "l11",
+   "start": 75.594,
+   "end": 77.704,
+   "lines": [
+    "Same farmland, same fund."
+   ]
+  },
+  {
+   "line": "l11",
+   "start": 77.784,
+   "end": 80.604,
+   "lines": [
+    "Its units are now compliant",
+    "tokens on Redbelly Network,"
+   ]
+  },
+  {
+   "line": "l11",
+   "start": 80.684,
+   "end": 82.354,
+   "lines": [
+    "issued through Tokeniser."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Animation source: From Farmland to Token</title>
+<meta name="robots" content="noindex">
+<style>
+  :root { --ink: #343740; --paper: #F6F5F2; --line: #D8D5CF; --mint: #A2FFC8; --slate: #142530; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: #0c1317; color: #f1f5f8; font: 15px/1.5 system-ui, sans-serif; }
+  body.render { background: #000; overflow: hidden; }
+  .wrap { max-width: 1280px; margin: 0 auto; padding: 16px; }
+  canvas { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; background: var(--paper); border-radius: 8px; }
+  body.render canvas { width: 1920px; height: 1080px; border-radius: 0; }
+  .bar { display: flex; gap: 12px; align-items: center; margin-top: 12px; flex-wrap: wrap; }
+  button { font: inherit; padding: 8px 14px; border-radius: 4px; border: 1px solid #34444f; background: #141f26; color: #f1f5f8; cursor: pointer; }
+  button:hover { border-color: var(--mint); }
+  input[type=range] { flex: 1; min-width: 200px; accent-color: #A2FFC8; }
+  .time { font-family: ui-monospace, monospace; min-width: 120px; }
+  .scenes { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .scenes button { padding: 4px 10px; font-size: 13px; }
+  label { display: inline-flex; gap: 6px; align-items: center; }
+  p.note { color: #8fa1ad; font-size: 13px; }
+</style>
+</head>
+<body>
+<div class="wrap" id="ui">
+  <canvas id="c" width="1920" height="1080"></canvas>
+  <div class="bar">
+    <button id="play">Play</button>
+    <input id="seek" type="range" min="0" max="1000" value="0" step="1">
+    <span class="time" id="time">0.00 s</span>
+    <label><input type="checkbox" id="subs" checked> Subtitles</label>
+  </div>
+  <div class="scenes" id="scenes"></div>
+  <p class="note">Live source of the explainer. Every frame is drawn from content/script.json, content/timeline.json and content/words.json. Keys: space plays, arrows step one frame.</p>
+</div>
+<audio id="audio" preload="auto"></audio>
+<script src="engine.js"></script>
+<script src="scenes.js"></script>
+<script>
+(async function () {
+  const q = new URLSearchParams(location.search);
+  const render = q.has('render');
+  if (render) document.body.classList.add('render');
+  const canvas = document.getElementById('c');
+  const ctx = canvas.getContext('2d');
+  const D = await Scenes.load('..');
+  const dur = D.duration;
+  let subs = q.get('subs') !== '0';
+
+  // Render hooks used by tools/render.cjs
+  window.renderFrame = (t) => { Scenes.renderAt(ctx, t, { subs }); return true; };
+  window.setSubs = (on) => { subs = !!on; };
+  window.duration = dur;
+  window.sfxCues = () => Scenes.sfxCues();
+  window.drawnText = () => [...Engine.drawn];
+  window.ready = true;
+  if (render) { renderFrame(+(q.get('t') || 0)); return; }
+
+  const audio = document.getElementById('audio');
+  audio.src = q.get('audio') || '../media/tokeniser-asset-journey.m4a';
+  const seek = document.getElementById('seek');
+  const time = document.getElementById('time');
+  const play = document.getElementById('play');
+  document.getElementById('subs').onchange = (e) => { subs = e.target.checked; draw(); };
+  let t = +(q.get('t') || 0);
+  let playing = false;
+  let t0 = 0, wall0 = 0;
+  function draw() {
+    Scenes.renderAt(ctx, t, { subs });
+    seek.value = Math.round((t / dur) * 1000);
+    time.textContent = `${t.toFixed(2)} s / ${dur.toFixed(1)} s`;
+  }
+  function loop(now) {
+    if (!playing) return;
+    t = audio.readyState >= 2 && !audio.paused ? audio.currentTime : t0 + (now - wall0) / 1000;
+    if (t >= dur) { t = dur; stop(); }
+    draw();
+    requestAnimationFrame(loop);
+  }
+  function start() {
+    playing = true; play.textContent = 'Pause';
+    t0 = t; wall0 = performance.now();
+    audio.currentTime = t; audio.play().catch(() => {});
+    requestAnimationFrame(loop);
+  }
+  function stop() { playing = false; play.textContent = 'Play'; audio.pause(); }
+  play.onclick = () => (playing ? stop() : start());
+  seek.oninput = () => { t = (seek.value / 1000) * dur; if (playing) { t0 = t; wall0 = performance.now(); audio.currentTime = t; } draw(); };
+  document.addEventListener('keydown', (e) => {
+    if (e.code === 'Space') { e.preventDefault(); playing ? stop() : start(); }
+    if (e.code === 'ArrowRight') { t = Math.min(dur, t + 1 / 60); draw(); }
+    if (e.code === 'ArrowLeft') { t = Math.max(0, t - 1 / 60); draw(); }
+  });
+  const box = document.getElementById('scenes');
+  for (const s of D.timeline.scenes) {
+    const b = document.createElement('button');
+    b.textContent = s.title;
+    b.onclick = () => { t = s.start + 0.01; if (playing) { t0 = t; wall0 = performance.now(); audio.currentTime = t; } draw(); };
+    box.appendChild(b);
+  }
+  draw();
+})();
+</script>
+</body>
+</html>
