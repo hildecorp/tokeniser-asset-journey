@@ -1,6 +1,6 @@
 # Verification report
 
-Run 2026-10-25 16:32 UTC by `python3 tools/check.py`. 26 of 26 checks pass.
+Run 2026-10-25 19:09 UTC by `python3 tools/check.py`. 26 of 26 checks pass.
 
 | Result | Check | Detail |
 | --- | --- | --- |
@@ -29,4 +29,4 @@ Run 2026-10-25 16:32 UTC by `python3 tools/check.py`. 26 of 26 checks pass.
 | Pass | No personal credit in any deliverable | no names, handles, signatures or credit lines in the video, subtitles, documents, metadata or website |
 | Pass | Licence proof for every third party asset | fonts (SIL OFL 1.1), voice (Alba speech corpus, CC BY 4.0; Piper voice model, MIT), music and effects original, made from code |
 | Pass | Website loads nothing from other domains | all scripts, fonts, styles, images and media are served from the site itself |
-| Pass | Every file the website links to exists | 26 local links checked |
+| Pass | Every file the website links to exists | 27 local links on the home page and every asset of the animation page checked |

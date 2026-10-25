@@ -173,7 +173,7 @@ TEMPLATE = """<!doctype html>
 <meta property="og:description" content="How a regulated real-world asset becomes a compliant token on Redbelly Network, through Tokeniser. In plain language, step by step.">
 <meta property="og:image" content="assets/img/og.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23A2FFC8' stroke='%23343740' stroke-width='3'/%3E%3Cpath d='M16 8l7 4v8l-7 4-7-4v-8z' fill='none' stroke='%23343740' stroke-width='2.4'/%3E%3C/svg%3E">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="preload" href="assets/fonts/ReadexPro-VF.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="assets/site.css">
 <script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>

@@ -1,5 +1,5 @@
 {
- "run_utc": "2026-10-25T16:32:43+00:00",
+ "run_utc": "2026-10-25T19:09:12+00:00",
  "checks": [
   {
    "name": "Every claim is quoted verbatim from a supplied resource",
@@ -129,7 +129,7 @@
   {
    "name": "Every file the website links to exists",
    "ok": true,
-   "detail": "26 local links checked"
+   "detail": "27 local links on the home page and every asset of the animation page checked"
   }
  ]
 }

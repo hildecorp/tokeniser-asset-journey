@@ -5,6 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Animation source: From Farmland to Token</title>
 <meta name="robots" content="noindex">
+<!-- Vercel serves this page at /animation (no trailing slash), so every relative path is anchored here. -->
+<base href="/animation/">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
 <style>
   :root { --ink: #343740; --paper: #F6F5F2; --line: #D8D5CF; --mint: #A2FFC8; --slate: #142530; }
   * { box-sizing: border-box; }
@@ -22,10 +25,14 @@
   .scenes button { padding: 4px 10px; font-size: 13px; }
   label { display: inline-flex; gap: 6px; align-items: center; }
   p.note { color: #8fa1ad; font-size: 13px; }
+  .head { display: flex; justify-content: space-between; align-items: center; margin: 4px 0 14px; font-size: 14px; color: #8fa1ad; }
+  .head a { color: #A2FFC8; }
+  body.render .head { display: none; }
 </style>
 </head>
 <body>
 <div class="wrap" id="ui">
+  <header class="head"><a href="../">Back to the video</a><span>Live animation source</span></header>
   <canvas id="c" width="1920" height="1080"></canvas>
   <div class="bar">
     <button id="play">Play</button>
@@ -98,7 +105,7 @@
   for (const s of D.timeline.scenes) {
     const b = document.createElement('button');
     b.textContent = s.title;
-    b.onclick = () => { t = s.start + 0.01; if (playing) { t0 = t; wall0 = performance.now(); audio.currentTime = t; } draw(); };
+    b.onclick = () => { t = Math.min(s.end - 0.05, s.start + 0.6); if (playing) { t0 = t; wall0 = performance.now(); audio.currentTime = t; } draw(); };
     box.appendChild(b);
   }
   draw();

@@ -265,7 +265,17 @@ def check_site():
     add("Website loads nothing from other domains", not bad, "all scripts, fonts, styles, images and media are served from the site itself" + (f" FOUND {bad}" if bad else ""))
     links = re.findall(r'(?:href|src|poster)="([^"#:]+)"', open(rel("index.html")).read())
     missing = [l for l in set(links) if not os.path.exists(rel(l))]
-    add("Every file the website links to exists", not missing, f"{len(set(links))} local links checked" + (f" MISSING {missing}" if missing else ""))
+    # The animation page is served at /animation (no trailing slash), so its paths resolve from its <base href>.
+    anim = open(rel("animation/index.html")).read()
+    base = re.search(r'<base href="/([^"]*)"', anim)
+    if not base:
+        missing.append("animation/index.html has no <base href>, its relative paths break at /animation")
+    else:
+        for l in set(re.findall(r'(?:href|src)="([^"#:?]+)"', anim)) - {"/" + base.group(1)}:
+            target = os.path.normpath(os.path.join(base.group(1), l))
+            if not os.path.exists(rel(target)):
+                missing.append(f"animation: {l}")
+    add("Every file the website links to exists", not missing, f"{len(set(links))} local links on the home page and every asset of the animation page checked" + (f" MISSING {missing}" if missing else ""))
 
 
 def main():
