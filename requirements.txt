@@ -1,0 +1,8 @@
+# Python tools in tools/ (Python 3.11 or later)
+piper-tts>=1.3          # voiceover engine (tools/build_voice.py)
+faster-whisper>=1.1     # speech recognition check of every take and subtitle timing
+jiwer>=3.0              # word error rate
+numpy>=1.26
+scipy>=1.11
+soundfile>=0.12
+python-docx>=1.1        # script document, Word version

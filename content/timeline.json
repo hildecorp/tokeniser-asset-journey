@@ -1,0 +1,205 @@
+{
+  "duration": 86.669,
+  "fps": 60,
+  "voice": {
+    "engine": "Piper (piper-tts)",
+    "voice": "en_GB-alba-medium"
+  },
+  "scenes": [
+    {
+      "id": "s01",
+      "title": "The question",
+      "step": null,
+      "start": 0.0,
+      "lines": [
+        {
+          "id": "l01",
+          "text": "How does a real-world asset become a token? Let's follow one asset, step by step.",
+          "start": 1.2,
+          "end": 6.728,
+          "asr_wer": 0.0,
+          "asr_heard": "How does a real world asset become a token?  Let's follow one asset, step by step."
+        }
+      ],
+      "end": 6.828
+    },
+    {
+      "id": "s02",
+      "title": "The asset",
+      "step": null,
+      "start": 6.828,
+      "lines": [
+        {
+          "id": "l02",
+          "text": "Meet an Australian farmland fund. Investors hold its units, and the register sits across separate systems, updated after the fact.",
+          "start": 7.228,
+          "end": 15.03,
+          "asr_wer": 0.0,
+          "asr_heard": "Meet an Australian farmland fund. Investors hold its units and the register sits across  separate systems, updated after the fact."
+        }
+      ],
+      "end": 15.08
+    },
+    {
+      "id": "s03",
+      "title": "What tokenisation means",
+      "step": null,
+      "start": 15.08,
+      "lines": [
+        {
+          "id": "l03",
+          "text": "Tokenisation records that ownership as digital tokens, with the fund's rules programmed in.",
+          "start": 15.48,
+          "end": 20.549,
+          "asr_wer": 0.077,
+          "asr_heard": "tokenisation records that ownership as digital tokens with the funds rules programmed in."
+        }
+      ],
+      "end": 20.549
+    },
+    {
+      "id": "s04",
+      "title": "Two layers",
+      "step": null,
+      "start": 20.549,
+      "lines": [
+        {
+          "id": "l04",
+          "text": "The manager uses Tokeniser, a familiar platform. Underneath runs Redbelly Network, Australia's public digital token infrastructure.",
+          "start": 20.949,
+          "end": 28.637,
+          "asr_wer": 0.0,
+          "asr_heard": "The manager uses Tokeniser, a familiar platform.  Underneath runs Red Belly Network, Australia's public digital token infrastructure."
+        }
+      ],
+      "end": 28.737
+    },
+    {
+      "id": "s05",
+      "title": "Step 1. Set up",
+      "step": 1,
+      "start": 28.737,
+      "lines": [
+        {
+          "id": "l05",
+          "text": "Step one: set up. The fund is verified, and its rules, like wholesale investors only, are encoded into the token.",
+          "start": 29.137,
+          "end": 36.701,
+          "asr_wer": 0.0,
+          "asr_heard": "Step one, set up. The fund is verified and its rules, like wholesale investors only,  are encoded into the token."
+        }
+      ],
+      "end": 36.751
+    },
+    {
+      "id": "s06",
+      "title": "Step 2. Investors",
+      "step": 2,
+      "start": 36.751,
+      "lines": [
+        {
+          "id": "l06",
+          "text": "Step two: investors. Each is verified through Averer, then gets a wallet on Redbelly Network to hold tokens.",
+          "start": 37.151,
+          "end": 44.006,
+          "asr_wer": 0.056,
+          "asr_heard": "Step two, investors. Each is verified through Avura, then gets a wallet on Red Belly Network  to hold tokens."
+        }
+      ],
+      "end": 44.056
+    },
+    {
+      "id": "s07",
+      "title": "Step 3. Issue",
+      "step": 3,
+      "start": 44.056,
+      "lines": [
+        {
+          "id": "l07",
+          "text": "Step three: issue. Tokens are minted on Redbelly Network into verified wallets, and the register updates immediately.",
+          "start": 44.456,
+          "end": 50.972,
+          "asr_wer": 0.0,
+          "asr_heard": "Step three, issue.  Tokens are minted on Red Belly Network into verified wallets  and the register updates immediately."
+        }
+      ],
+      "end": 51.022
+    },
+    {
+      "id": "s08",
+      "title": "Step 4. Transfer",
+      "step": 4,
+      "start": 51.022,
+      "lines": [
+        {
+          "id": "l08",
+          "text": "Step four: transfer. Every transfer is checked against the rules first. A transfer to an ineligible investor is rejected.",
+          "start": 51.422,
+          "end": 59.289,
+          "asr_wer": 0.0,
+          "asr_heard": "Step four, transfer. Every transfer is checked against the rules first.  A transfer to an ineligible investor is rejected."
+        }
+      ],
+      "end": 59.289
+    },
+    {
+      "id": "s09",
+      "title": "Settlement",
+      "step": 4,
+      "start": 59.289,
+      "lines": [
+        {
+          "id": "l09",
+          "text": "A compliant one settles on Redbelly in seconds. When investors hold their own wallets, transfer and payment complete together. Once confirmed, it is final.",
+          "start": 59.689,
+          "end": 69.648,
+          "asr_wer": 0.0,
+          "asr_heard": "a compliant one settles on red belly in seconds. When investors hold their own wallets, transfer  and payment complete together. Once confirmed, it is final."
+        }
+      ],
+      "end": 69.698
+    },
+    {
+      "id": "s10",
+      "title": "The record",
+      "step": null,
+      "start": 69.698,
+      "lines": [
+        {
+          "id": "l10",
+          "text": "Every check, transfer and rejection is recorded, ready for auditors and regulators.",
+          "start": 70.098,
+          "end": 75.264,
+          "asr_wer": 0.0,
+          "asr_heard": "Every check transfer and rejection is recorded, ready for auditors and regulators."
+        }
+      ],
+      "end": 75.314
+    },
+    {
+      "id": "s11",
+      "title": "Same asset, new record",
+      "step": null,
+      "start": 75.314,
+      "lines": [
+        {
+          "id": "l11",
+          "text": "Same farmland, same fund. Its units are now compliant tokens on Redbelly Network, issued through Tokeniser.",
+          "start": 75.714,
+          "end": 82.319,
+          "asr_wer": 0.0,
+          "asr_heard": "Same farmland, same fund. Its units are now compliant tokens on Red Belly Network, issued through tokeniser."
+        }
+      ],
+      "end": 82.469
+    },
+    {
+      "id": "s12",
+      "title": "Close",
+      "step": null,
+      "start": 82.469,
+      "lines": [],
+      "end": 86.669
+    }
+  ]
+}

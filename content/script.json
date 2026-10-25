@@ -1,0 +1,406 @@
+{
+  "title": "From Farmland to Token",
+  "subtitle": "How a regulated real-world asset becomes a compliant token on Redbelly Network, through Tokeniser",
+  "version": "1.0",
+  "asset": {
+    "name": "An Australian farmland fund",
+    "type": "Registered fund (unit trust). Investors hold units in the fund.",
+    "why": "Tokeniser is built for Australian funds and companies. A farmland fund is a real, regulated structure that anyone can picture: land you can see, owned through units that investors hold. It lets the video show the difference between the asset (the farmland, which does not change) and the record of who owns it (which becomes a token).",
+    "note": "Illustrative example. Not a real fund. No prices, returns or performance are shown or implied."
+  },
+  "audience": "Someone with no crypto or finance background.",
+  "voice": {
+    "engine": "Piper (piper-tts)",
+    "voice": "en_GB-alba-medium",
+    "voice_source": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_GB/alba/medium",
+    "dataset": "Alba speech corpus, University of Edinburgh DataShare, CC BY 4.0",
+    "length_scale": 1.0,
+    "noise_scale": 0.6,
+    "noise_w_scale": 0.7,
+    "respell": {
+      "Redbelly": "Red belly",
+      "Tokeniser": "Tokenizer",
+      "Tokenisation": "Tokenization"
+    },
+    "takes": 6
+  },
+  "style_rules": [
+    "Plain English, one idea per sentence.",
+    "No em dashes or en dashes, no emoji, no exclamation marks.",
+    "No price talk, returns, performance or investment advice.",
+    "No hype words such as elevate, seamless, unleash or revolutionize.",
+    "Every claim about Redbelly or Tokeniser is backed by a quote from the supplied resources."
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "title": "The question",
+      "step": null,
+      "lines": [
+        {
+          "id": "l01",
+          "vo": "How does a real-world asset become a token? Let's follow one asset, step by step.",
+          "pause_after": 0.5
+        }
+      ],
+      "onscreen": [
+        "From real-world asset to compliant token",
+        "Tokeniser on Redbelly Network"
+      ],
+      "visual": "Dark slate opening. A single token outline draws itself, then the journey rail appears: four stops labelled Set up, Investors, Issue, Transfer.",
+      "claims": []
+    },
+    {
+      "id": "s02",
+      "title": "The asset",
+      "step": null,
+      "lines": [
+        {
+          "id": "l02",
+          "vo": "Meet an Australian farmland fund. Investors hold its units, and the register sits across separate systems, updated after the fact.",
+          "pause_after": 0.45
+        }
+      ],
+      "onscreen": [
+        "Illustrative example",
+        "Australian farmland fund",
+        "Units",
+        "Investors",
+        "Register today",
+        "Spreadsheet",
+        "Email",
+        "Admin system",
+        "Updated after the fact"
+      ],
+      "visual": "Isometric farmland draws in line by line inside a frame labelled as the fund. A row of unit tiles sits beneath it, linked to investors. The register appears as three disconnected documents with a lagging clock.",
+      "claims": [
+        {
+          "claim": "Fund registers today are commonly kept across separate systems and updated after the fact.",
+          "source": "tk-real-time-transparency",
+          "quote": "Most fund registers are updated after the fact, across several systems that require manual reconciliation."
+        },
+        {
+          "claim": "Tokeniser is built for Australian funds.",
+          "source": "tk-home",
+          "quote": "Give your Australian fund a global edge"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": "What tokenisation means",
+      "step": null,
+      "lines": [
+        {
+          "id": "l03",
+          "vo": "Tokenisation records that ownership as digital tokens, with the fund's rules programmed in.",
+          "pause_after": 0.4
+        }
+      ],
+      "onscreen": [
+        "Ownership, recorded as digital tokens",
+        "Rules, programmed in"
+      ],
+      "visual": "The farmland stays exactly where it is. The unit tiles lift out of the old register and turn into tokens. A small rules mark settles into each token.",
+      "claims": [
+        {
+          "claim": "Tokenisation records ownership as digital tokens and lets the issuer program the rules of the asset.",
+          "source": "tk-home",
+          "quote": "Tokenisation records ownership of financial products and services as digital tokens, and lets you program the rules of the asset."
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": "Two layers",
+      "step": null,
+      "lines": [
+        {
+          "id": "l04",
+          "vo": "The manager uses Tokeniser, a familiar platform. Underneath runs Redbelly Network, Australia's public digital token infrastructure.",
+          "pause_after": 0.5
+        }
+      ],
+      "onscreen": [
+        "Tokeniser",
+        "Familiar platform",
+        "Redbelly Network",
+        "Public digital token infrastructure"
+      ],
+      "visual": "A light Tokeniser platform layer slides in. The camera tilts down to reveal the dark Redbelly Network layer running underneath it. These two layers stay on screen as the stage for the four steps.",
+      "claims": [
+        {
+          "claim": "Tokeniser is a familiar platform with Redbelly Network running underneath it, described as Australia's public digital token infrastructure.",
+          "source": "tk-technology",
+          "quote": "Tokeniser gives you a familiar platform. Underneath it runs Redbelly Network, Australia's public digital token infrastructure"
+        },
+        {
+          "claim": "Tokeniser operates on Redbelly Network.",
+          "source": "tk-home",
+          "quote": "Tokeniser operates on Redbelly Network, Australia's public digital token infrastructure, with identity and eligibility built into the protocol."
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "title": "Step 1. Set up",
+      "step": 1,
+      "lines": [
+        {
+          "id": "l05",
+          "vo": "Step one: set up. The fund is verified, and its rules, like wholesale investors only, are encoded into the token.",
+          "pause_after": 0.45
+        }
+      ],
+      "onscreen": [
+        "Step 1",
+        "Set up",
+        "Fund verified",
+        "Rules encoded into the token",
+        "Wholesale investors only",
+        "Transfer restrictions"
+      ],
+      "visual": "On the Tokeniser layer, a fund setup card ticks Fund verified. Rule chips snap into the token one by one and lock in.",
+      "claims": [
+        {
+          "claim": "Setup includes entity verification and defining compliance rules.",
+          "source": "tk-kh-how-does-tokeniser-work",
+          "quote": "Complete entity verification, fund or company details, and administrator accounts."
+        },
+        {
+          "claim": "Compliance rules are encoded into the token.",
+          "source": "tk-kh-how-does-tokeniser-work",
+          "quote": "Compliance parameters are encoded into the token smart contract and can be updated on-chain."
+        },
+        {
+          "claim": "Wholesale investor thresholds and transfer restrictions are configurable rules.",
+          "source": "tk-kh-investor-compliance",
+          "quote": "Foreign ownership limits, lock-up periods, and wholesale investor thresholds are all configurable compliance parameters."
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "title": "Step 2. Investors",
+      "step": 2,
+      "lines": [
+        {
+          "id": "l06",
+          "vo": "Step two: investors. Each is verified through Averer, then gets a wallet on Redbelly Network to hold tokens.",
+          "pause_after": 0.45
+        }
+      ],
+      "onscreen": [
+        "Step 2",
+        "Investors",
+        "Verified through Averer",
+        "Identity verified",
+        "Investor classified",
+        "Wallet on Redbelly Network",
+        "Not verified",
+        "No tokens"
+      ],
+      "visual": "Three investors pass through a verification gate. Two are verified and receive a wallet that drops onto the Redbelly layer. A third is not verified and gets no wallet.",
+      "claims": [
+        {
+          "claim": "Investors are verified through Averer before they can transact.",
+          "source": "tk-getting-started",
+          "quote": "Investors are verified by Averer before they can transact, with eligibility checks built into the protocol itself."
+        },
+        {
+          "claim": "Onboarding covers identity verification, investor classification and a wallet.",
+          "source": "tk-kh-how-does-tokeniser-work",
+          "quote": "Investors onboard to Tokeniser through a digital process: identity verification, investor classification under the Corporations Act, and wallet creation."
+        },
+        {
+          "claim": "The wallet is on Redbelly Network and holds the investor's tokens.",
+          "source": "tk-kh-how-does-tokeniser-work",
+          "quote": "The investor's wallet is a digital wallet on Redbelly Network. It holds the tokens representing their ownership interest."
+        },
+        {
+          "claim": "Investors who are not verified cannot receive tokens.",
+          "source": "tk-kh-how-does-tokeniser-work",
+          "quote": "Until onboarding is complete and the wallet is verified, tokens cannot be issued or transferred to that investor."
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "title": "Step 3. Issue",
+      "step": 3,
+      "lines": [
+        {
+          "id": "l07",
+          "vo": "Step three: issue. Tokens are minted on Redbelly Network into verified wallets, and the register updates immediately.",
+          "pause_after": 0.45
+        }
+      ],
+      "onscreen": [
+        "Step 3",
+        "Issue",
+        "Minted on Redbelly Network",
+        "Register",
+        "Updated"
+      ],
+      "visual": "Tokens are minted on the Redbelly layer and travel up into the verified wallets. The register panel fills its rows at the same moment.",
+      "claims": [
+        {
+          "claim": "Tokens are minted on Redbelly Network and transferred to verified investor wallets.",
+          "source": "tk-kh-how-does-tokeniser-work",
+          "quote": "Tokens are minted on Redbelly Network and transferred to the verified investor wallets."
+        },
+        {
+          "claim": "The register updates immediately on issuance.",
+          "source": "tk-kh-how-does-tokeniser-work",
+          "quote": "The on-chain register updates immediately to reflect each issuance."
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "title": "Step 4. Transfer",
+      "step": 4,
+      "lines": [
+        {
+          "id": "l08",
+          "vo": "Step four: transfer. Every transfer is checked against the rules first. A transfer to an ineligible investor is rejected.",
+          "pause_after": 0.4
+        }
+      ],
+      "onscreen": [
+        "Step 4",
+        "Transfer",
+        "Checked against the rules",
+        "Ineligible investor",
+        "Rejected"
+      ],
+      "visual": "A holder tries to send a token to an ineligible investor. It reaches the rules check, the check fails and the token returns to its holder.",
+      "claims": [
+        {
+          "claim": "Every transfer is checked against the rules before it is processed.",
+          "source": "tk-kh-how-does-tokeniser-work",
+          "quote": "Every transfer is checked against configured compliance parameters before submission."
+        },
+        {
+          "claim": "Transfers to ineligible investors are rejected.",
+          "source": "tk-kh-how-does-tokeniser-work",
+          "quote": "Transfers to unverified wallets, ineligible investors, or in breach of restrictions are rejected."
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "title": "Settlement",
+      "step": 4,
+      "lines": [
+        {
+          "id": "l09",
+          "vo": "A compliant one settles on Redbelly in seconds. When investors hold their own wallets, transfer and payment complete together. Once confirmed, it is final.",
+          "pause_after": 0.45
+        }
+      ],
+      "onscreen": [
+        "Checks passed",
+        "Settles in seconds",
+        "Transfer and payment, together",
+        "Final"
+      ],
+      "visual": "A transfer to an eligible investor passes every check. Token and payment cross on the Redbelly layer at the same moment and a final seal locks the block.",
+      "claims": [
+        {
+          "claim": "Compliant transfers settle on Redbelly Network in seconds.",
+          "source": "tk-kh-how-does-tokeniser-work",
+          "quote": "Compliant transfers settle atomically on Redbelly Network in seconds."
+        },
+        {
+          "claim": "With wallets the investors hold themselves (non-custodial), transfer and payment complete together.",
+          "source": "tk-kh-how-does-tokeniser-work",
+          "quote": "For non-custodial wallets, atomic settlements, transfer and payment complete simultaneously in seconds."
+        },
+        {
+          "claim": "Once confirmed, a transaction on Redbelly is final and cannot be reversed.",
+          "source": "rb-asset-tokenisation",
+          "quote": "Deterministic finality ensures transactions are confirmed once and cannot be reversed, providing certainty for financial markets"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "The record",
+      "step": null,
+      "lines": [
+        {
+          "id": "l10",
+          "vo": "Every check, transfer and rejection is recorded, ready for auditors and regulators.",
+          "pause_after": 0.45
+        }
+      ],
+      "onscreen": [
+        "Recorded",
+        "Check",
+        "Transfer",
+        "Rejection",
+        "Auditors",
+        "Regulators"
+      ],
+      "visual": "The events of the last two steps stack into one audit record that stays current, then fans out to three readers.",
+      "claims": [
+        {
+          "claim": "Every check, transfer and rejection is recorded and available to administrators, auditors and regulators.",
+          "source": "tk-kh-investor-compliance",
+          "quote": "Every compliance check, every transfer, and every rejection is recorded on-chain and in the platform's compliance log. This creates an immutable audit trail that is available to fund administrators, auditors, and regulators at any time."
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "title": "Same asset, new record",
+      "step": null,
+      "lines": [
+        {
+          "id": "l11",
+          "vo": "Same farmland, same fund. Its units are now compliant tokens on Redbelly Network, issued through Tokeniser.",
+          "pause_after": 0.55
+        }
+      ],
+      "onscreen": [
+        "Same farmland, same fund.",
+        "Now compliant tokens on Redbelly Network",
+        "Issued through Tokeniser"
+      ],
+      "visual": "The camera pulls back to the farmland from the opening, now linked to its tokens on the Redbelly layer. All four rail stops are complete.",
+      "claims": [
+        {
+          "claim": "Tokeniser issues compliant tokens representing ownership interests on Redbelly Network.",
+          "source": "tk-kh-how-does-tokeniser-work",
+          "quote": "Tokeniser issues digital tokens representing ownership interests on Redbelly Network blockchain."
+        },
+        {
+          "claim": "Tokeniser provides compliant asset tokenisation.",
+          "source": "tk-home",
+          "quote": "Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions."
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "title": "Close",
+      "step": null,
+      "hold": 3.8,
+      "lines": [],
+      "onscreen": [
+        "Built on Redbelly Network",
+        "tokeniser.com",
+        "Illustrative example. General information only, not financial advice."
+      ],
+      "visual": "Tokeniser logo above the Redbelly Network logo on a calm slate end card, with the web address and the illustrative example note.",
+      "claims": [
+        {
+          "claim": "Tokeniser is built on Redbelly Network.",
+          "source": "tk-getting-started",
+          "quote": "Built on Redbelly, Australia's public digital token infrastructure and the network chosen by Australia's central bank for its digital currency project."
+        }
+      ]
+    }
+  ]
+}
