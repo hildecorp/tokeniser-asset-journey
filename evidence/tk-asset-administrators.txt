@@ -1,0 +1,164 @@
+SOURCE: https://tokeniser.com/solutions/asset-administrators
+TITLE: For Asset Administrators — Tokeniser
+CAPTURED (UTC): 2026-10-25T15:00:33.527Z
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+ADMINISTRATORS
+A modern registry from onboarding to lifecycle operations
+One operating layer for administrators to support the entire fund
+Talk to us about fund administration
+Book a demo
+ONE OPERATING LAYER
+Investor identity and onboarding
+Registry, holdings and ownership
+Subscriptions, redemptions, transfers
+Distribution channels
+Liquidity, settlement and financing
+Enabled per fund, per client, where appropriate.
+WHAT CHANGES
+Five parts of administration, before and after
+Same funds, same clients, same obligations. The difference is the infrastructure you administer them on.
+Ownership record
+TRADITIONAL ADMINISTRATION
+Registry activity is maintained across administration systems, documents, spreadsheets and manual reconciliations.
+TOKENISER ENABLED
+A digital source of truth connects investors, holdings, eligibility and lifecycle activity. Low effort admin.
+Investor lifecycle
+TRADITIONAL ADMINISTRATION
+Onboarding, subscriptions, redemptions, transfers and reporting are often handled through separate workflows.
+TOKENISER ENABLED
+Investor onboarding, registry events and lifecycle workflows can operate through one connected infrastructure layer.
+Distribution support
+TRADITIONAL ADMINISTRATION
+Your customer needs to configure new channels that require bespoke operating processes, reconciliations or registry workarounds.
+TOKENISER ENABLED
+Your customers can use the same underlying fund infrastructure to support adviser, platform, direct and digital distribution pathways.
+Liquidity and transfers
+TRADITIONAL ADMINISTRATION
+Secondary activity typically requires manual approvals, off-platform coordination and separate settlement processes.
+TOKENISER ENABLED
+Your customer can give eligible investors and fund units access to configured transfer rules, liquidity windows, price controls and venue connectivity where appropriate.
+Settlement and financing
+TRADITIONAL ADMINISTRATION
+Settlement, collateral and lending arrangements rely on separate parties and bespoke processes.
+TOKENISER ENABLED
+Digital infrastructure can support asynchronous, atomic settlement, collateral and borrowing options, and other protocol finance capabilities for suitable funds.
+Capabilities are configured by the fund issuer or manager and enabled only where appropriate for the fund, investors, service provider model and regulatory setting.
+CAPABILITY
+What Tokeniser does for fund administrators
+Ready for scale from day one.
+One operating layer for registry, lifecycle and distribution support, across every fund you administer.
+Talk to Tokeniser
+01
+Scalable fund administration in one place
+Tokeniser supports registry and investor lifecycle activity across multiple funds, managers and distribution models, in one place.
+Investor onboarding and eligibility checks
+Registry, holdings and ownership records
+Subscriptions, redemptions and transfers
+A scalable administration with a cleaner operating model.
+02
+Help managers with distribution pathways
+Tokeniser lets administrators support managers who want to connect the same underlying fund to new channels without rebuilding operating processes for every venue or partner.
+Adviser and platform distribution
+Wholesale investor networks
+Digital asset venues and approved distribution channels
+Distribution support that keeps one set of ownership infrastructure.
+03
+Impressive investor experience
+Tokeniser's modern investor experience creates an impressive fund administration experience.
+Mobile first investor experience
+Reusable KYC across issuers, minimising KYC needs
+A single investor experience, ready for AI investing
+The asset issuer looks good, you look good, investors feel good.
+ADOPTION
+A phased path to customer adoption
+You do not need to replace your administration model overnight. Tokeniser can be introduced in stages based on your clients, systems and strategic priorities.
+1
+Start with registry and lifecycle workflows
+Digitise ownership records, investor onboarding, subscriptions, redemptions, transfers and reporting.
+2
+Add distribution support
+Connect new adviser, platform, direct or digital channels to the same underlying fund infrastructure.
+3
+Introduce controlled liquidity
+Support approved transfers, liquidity windows and venue connectivity for eligible investors where appropriate.
+4
+Activate financing and settlement
+Enable digital settlement, collateral, borrowing and other protocol finance capabilities for suitable funds.
+OPERATING MODELS
+Flexible operating models
+Use Tokeniser directly, or run it underneath the experience you already have.
+Use Tokeniser directly
+Administrators and managers can use Tokeniser interfaces to get started quickly with investor onboarding, holdings, activity and fund lifecycle workflows.
+Best for: administrators supporting managers who want speed without building a new front end.
+Use Tokeniser under the hood
+Tokeniser can operate as a protocol finance layer underneath existing administrator, manager or platform experiences through APIs and integrations.
+Best for: administrators with established portals, workflows and service models that need tokenisation infrastructure underneath.
+ECOSYSTEM
+Designed to work with the fund ecosystem
+Tokeniser is designed to connect into existing fund structures and service provider relationships.
+THE PARTIES YOU WORK WITH
+Fund managers
+Trustees and responsible entities
+Custodians
+Banking and payments partners
+Advisers, platforms, distributors and approved venues
+YOU
+Fund administrators
+You keep the client relationships, the service model and the obligations you hold today.
+Registry, investor identity and digital asset infrastructure, underneath all of it.
+Keep the relationships and legal structures that already work. Modernise the infrastructure connecting them.
+THE BROADER TOKENISATION MARKET MOVEMENTS
+A$24bn p.a.
+Potential Australian economic gain from digital finance
+Across better markets, payments and assets.
+Source: DFCRC
+US$1.98bn
+Franklin Templeton BENJI AUM
+AUM across Franklin Templeton's tokenised money market fund suite as at 29 April 2026.
+Source: Franklin Templeton
++140%
+Growth in BENJI investors
+Investor numbers increased by more than 140% from April 2024 to March 2026.
+Source: Franklin Templeton
+FAQ
+Common questions from fund administrators answered.
+Does Tokeniser replace the fund administrator?
+No. Tokeniser is designed to work with administrators and the broader fund ecosystem. It provides infrastructure that administrators can use directly or integrate into existing operating models.
+Do managers need to launch a new fund?
+No. Tokeniser can support new funds, feeder structures, staged transitions and migrations of existing funds, depending on the manager's objectives and regulatory setting.
+Does tokenisation guarantee liquidity?
+No. Tokeniser can enable controlled transfers and connectivity to liquidity and financing infrastructure. Actual market liquidity depends on the fund, underlying assets, investor demand and regulatory setting.
+Can Tokeniser integrate with existing administrator systems?
+Yes. Administrators can use Tokeniser interfaces or integrate Tokeniser underneath existing portals, workflows and systems through APIs.
+Do investors need to understand the underlying technology?
+No. The digital infrastructure can be abstracted from the investor experience. The administrator and manager can choose how much of the underlying technology is exposed to investors.
+Can fund units be used as collateral?
+Suitable fund units can be configured to support collateral, borrowing and other protocol finance capabilities. These features should be enabled only where appropriate for the fund and its investors.
+Start with your administration model
+Tell us how you administer funds today, where your managers are seeing demand for new distribution or liquidity options, and which systems need to stay in place. We will help identify the simplest path to Tokeniser.
+Talk to Tokeniser
+Book a demo
+© Tokeniser 2026. All rights reserved.
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+Contact
+Contact sales
+Request a demo
+PRIVACY
+We use cookies
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+Accept all
+Reject all
+Manage preferences

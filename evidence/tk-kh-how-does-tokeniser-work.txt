@@ -1,0 +1,138 @@
+SOURCE: https://tokeniser.com/resources/knowledge-hub/platform/how-does-tokeniser-work
+TITLE: How does Tokeniser work? | Tokeniser
+CAPTURED (UTC): 2026-10-25T15:01:04.288Z
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / PLATFORM
+ON THIS PAGE
+Short answer
+Key points
+Step 1: Fund or company setup
+Step 2: Investor onboarding
+Step 3: Token issuance
+Step 4: Transfers and compliance enforcement
+Step 5: Corporate actions
+Step 6: Reporting and audit
+Frequently asked questions
+Sources
+Related pages
+Platform
+BRAND
+PAGE 16 OF 22
+How does Tokeniser work?
+Tokeniser works by issuing digital tokens representing ownership interests on Redbelly Network, with compliance rules enforced at the protocol layer. Here is the step-by-step architecture.
+SHORT ANSWER
+Tokeniser works by representing ownership interests in regulated financial assets as digital tokens on Redbelly Network, a public blockchain designed for the volume of transactions and transaction finality demanded by institutional financial markets. When a fund manager or company establishes a register on Tokeniser, the platform issues tokens representing each investor's ownership interest, encodes compliance rules into the token's smart contract, and maintains the on-chain register as the definitive record of ownership. Every transfer is checked against the compliance rules and settled atomically. Corporate actions execute programmatically. Reports are generated in real time from the on-chain record. The fund manager administers all of this through Tokeniser's familiar SaaS style platform experience. No blockchain development, integration, configuration or knowledge is required.
+TL;DR
+Tokeniser issues digital tokens representing ownership interests on Redbelly Network blockchain.
+Compliance rules are encoded into the token at issuance and enforced automatically at every transfer.
+Investors can hold tokens in placeholder digital wallets, interacting with the investor portal using a Tokeniser account to view their holdings and reports.
+Investors can hold tokens via an omnibus digital wallet at a third party trading venue like BTC markets, via a bilateral agreement, viewing holdings and reports in that third party location.
+Investors can directly hold tokens in non-custodial digital wallets, using verified credentials, allowing additional composability of assets in secondary markets.
+Tokeniser does not take custody of assets in any of the above configurations.
+Settlement can be either traditional or atomic, depending on the wallet being used.
+For placeholder and omnibus wallets, the settlement process of payment, reconciliation and asset issuance occur in their traditional sequence.
+For non-custodial wallets, atomic settlements, transfer and payment complete simultaneously in seconds.
+Corporate actions, distributions, capital calls, buy-backs, can execute programmatically across all token holders.
+Fund managers administer the register through the Tokeniser platform interface. No blockchain expertise required.
+The full answer
+Step 1: Fund or company setup
+1
+Register setup and token parameters
+Complete entity verification, fund or company details, and administrator accounts.
+Define asset class, compliance rules, corporate action schedule, and fund-specific restrictions.
+Compliance parameters are encoded into the token smart contract and can be updated on-chain.
+The fund manager or company secretary establishes their register on Tokeniser by completing the platform onboarding process. This includes entity verification, configuration of the fund or company details, and definition of the token parameters: the asset class, the compliance rules to be enforced, the corporate action schedule, and any fund-specific restrictions.
+The compliance parameters configured at this stage are encoded into the token's smart contract. Once set, they enforce automatically at every subsequent transaction. They can be updated by the fund manager through the platform, with all changes recorded on-chain.
+Step 2: Investor onboarding
+2
+Identity, classification, and wallet
+Investors complete identity verification and investor classification under the Corporations Act.
+Until onboarding is complete and the wallet is verified, tokens cannot be issued or transferred to that investor.
+Tokeniser does not take custody. Holdings sit in placeholder, omnibus, or non-custodial wallets.
+Investors onboard to Tokeniser through a digital process: identity verification, investor classification under the Corporations Act, and wallet creation. Until onboarding is complete and the wallet is verified, tokens cannot be issued to or transferred to that investor.
+The investor's wallet is a digital wallet on Redbelly Network. It holds the tokens representing their ownership interest. Tokeniser does not take custody of the tokens. Depending on the wallet configuration, the investor either holds their own private key (non-custodial wallet) or accesses their holdings through a placeholder or omnibus wallet, as described above.
+Step 3: Token issuance
+3
+Minting to verified wallets
+The fund manager issues tokens through the Tokeniser interface.
+Tokens are minted on Redbelly Network and transferred to verified investor wallets.
+The on-chain register and cap table are live from the first token issued.
+Once the fund or company is set up and investors are onboarded, the fund manager issues tokens through the Tokeniser interface. Tokens are minted on Redbelly Network and transferred to the verified investor wallets. The on-chain register updates immediately to reflect each issuance. The cap table is live from the first token issued.
+Step 4: Transfers and compliance enforcement
+4
+Checked before it reaches the chain
+Every transfer is checked against configured compliance parameters before submission.
+Transfers to unverified wallets, ineligible investors, or in breach of restrictions are rejected.
+Compliant transfers settle atomically on Redbelly Network in seconds.
+When an investor initiates a transfer, or when the fund manager initiates a corporate action that involves a transfer, the platform checks the transaction against all configured compliance parameters before it is submitted to the blockchain. A transfer to an unverified wallet, an ineligible investor, or in breach of a transfer restriction is rejected before processing. Compliant transfers settle atomically on Redbelly Network in seconds.
+Step 5: Corporate actions
+5
+Configured once, executed across holders
+The fund manager configures amount, eligible holder criteria, and payment date.
+The platform executes the action programmatically across all eligible token holders.
+Payment is made to verified wallet addresses in a single on-chain transaction.
+Distributions, capital calls, and other corporate actions are executed through the Tokeniser platform. The fund manager configures the action, the amount, the eligible holder criteria, the payment date, and the platform executes it programmatically across all eligible token holders. Payment is made to verified wallet addresses in a single on-chain transaction. The register and reporting data update in real time.
+Step 6: Reporting and audit
+6
+Always current, no reconciliation
+Every transaction is recorded on-chain and visible in the reporting interface.
+Cap tables, registers, histories, distribution records, and compliance logs are always current.
+No manual compilation or reconciliation is required.
+Every transaction on Tokeniser is recorded on-chain and visible in the platform's reporting interface. Cap tables, investor registers, transaction histories, distribution records, and compliance logs are always current and available for administrators, auditors, and regulators. No manual compilation or reconciliation is required.
+Talk to us about tokenising your fund
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+Book a demo
+Contact us
+Frequently asked questions
+Does Tokeniser require blockchain or technical expertise to use?
+×
+No. Tokeniser's platform interface is designed for fund managers, company secretaries, and asset administrators. The blockchain infrastructure operates in the background. Users interact with a professional administration interface that handles the technical complexity.
+What happens if a transfer is rejected by the compliance system?
++
+The transfer is blocked before it reaches the blockchain. The fund administrator is notified, and the reason for the rejection is logged. The investor or initiating party is informed that the transfer cannot proceed and advised of the reason.
+Can investors see their holdings in real time?
++
+Yes. Investors access their holdings through the Tokeniser investor portal, which shows their current token balance, transaction history, and distribution records in real time.
+What blockchain does Tokeniser run on, and why?
++
+Tokeniser runs on Redbelly Network, a public blockchain developed by CSIRO and the University of Sydney. Redbelly is designed for institutional financial market use, high throughput, deterministic finality, and compliance-ready architecture. Its participation in the RBA's Project Acacia confirms its positioning as Australia's institutional blockchain infrastructure.
+Sources
+Redbelly Network. Technical documentation. 2026.
+Reserve Bank of Australia. “Project Acacia.” November 2024.
+Tokeniser. Platform documentation. May 2026.
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Related pages
+What is Tokeniser?
+PLATFORM
+What is a digital asset administration platform?
+PLATFORM
+What is Redbelly Network?
+PLATFORM
+How does Tokeniser handle investor compliance?
+AUSTRALIA
+What is self-custodial asset administration?
+PLATFORM
+© Tokeniser 2026. All rights reserved.
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+Contact
+Contact sales
+Request a demo
+PRIVACY
+We use cookies
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+Accept all
+Reject all
+Manage preferences

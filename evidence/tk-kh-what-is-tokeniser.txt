@@ -1,0 +1,113 @@
+SOURCE: https://tokeniser.com/resources/knowledge-hub/platform/what-is-tokeniser
+TITLE: What is Tokeniser? | Tokeniser
+CAPTURED (UTC): 2026-10-25T15:01:11.725Z
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / PLATFORM
+ON THIS PAGE
+Short answer
+Key points
+What Tokeniser does
+Who it is built for
+The infrastructure it runs on
+Track record
+Regulatory positioning
+Frequently asked questions
+Sources
+Related pages
+Platform
+BRAND
+PAGE 15 OF 22
+What is Tokeniser?
+Tokeniser is Australia's vertically integrated public digital token infrastructure enabling protocol finance. It provides infrastructure to asset issuers to build and deploy programmable assets into protocol finance. This enables investors with asset mobility, increasing the assets utility via protocol finance while reducing administrative costs. Built on Redbelly Network, it has processed over A$2 billion in transactions across 160+ Australian entities.
+SHORT ANSWER
+Tokeniser is Australia's digital asset administration platform. It enables fund managers, company secretaries, and asset administrators to issue, manage, transfer, and report on tokenised assets, including fund units, equity shares, loan notes, and structured products, on Redbelly Network blockchain infrastructure. Tokeniser replaces traditional share registry and fund administration systems with an automated, protocol-layer model: atomic settlement, programmable compliance, real-time cap tables, and digital corporate actions. Built in Australia for the Australian regulatory environment, Tokeniser has processed over A$2 billion in transactions across more than 160 companies and funds, with A$1.2 billion in issued equity value. Tokeniser provides infrastructure to asset issuers that enable increased utility of their assets to investors via protocol finance.
+TL;DR
+Tokeniser is Australia's digital asset administration platform for fund managers, company secretaries, and asset administrators.
+Embeds protocol finance infrastructure for asset managers to enhance utility to assets via asset mobility into secondary markets.
+It replaces traditional share registries and fund administration systems with on-chain infrastructure: atomic settlement, programmable compliance, real-time reporting.
+Built on Redbelly Network, developed by CSIRO and the University of Sydney.
+Track record: A$1.2B in issued equity value, A$2B+ in transactions, 160+ companies and funds, IQEQ partnership.
+Supports cash, money market, DeFi asset, private credit, private equity, real estate, and VC funds (GPLP), plus any fund structured as an MIS or unit trust.
+Participant in the RBA's Project Acacia, Australia's wholesale digital asset settlement research programme.
+The full answer
+What Tokeniser does
+Tokeniser provides the complete infrastructure for administering tokenised assets and protocol finance in Australia. This covers investor onboarding with integrated KYC/AML verification, token issuance and cap table management on-chain, compliance enforcement at the protocol layer, digital corporate actions including distributions and capital calls, secondary market transfer infrastructure, and real-time reporting and audit trails.
+For fund managers, this means running a compliant, efficient fund register without the manual processing, reconciliation overhead, and per-transaction fees of traditional registries. For company secretaries, it means a cap table that is always current, always auditable, and accessible to authorised parties in real time. Ultimately better cost of capital and distribution via direct to investor distribution and asset mobility providing secondary liquidity options for their assets.
+For asset administrators, it means compliance that is built into every transaction rather than applied as a manual overlay.
+For investors they get better assets with realtime look through and self custody of assets providing them optionality to access secondary liquidity.
+Who it is built for
+Tokeniser serves fund managers operating managed investment schemes, unit trusts, and wholesale funds; company secretaries maintaining registers for unlisted companies; asset administrators managing registers for private equity, private credit, and real estate vehicles; and SPVs issuing tokenised loan notes or structured products. The platform is designed for professional administration use, not for retail investors managing their own holdings.
+The infrastructure it runs on
+Tokeniser is built on Redbelly Network, a public blockchain developed by CSIRO and the University of Sydney. Redbelly Network is designed for institutional financial market use: high throughput, deterministic finality, and regulatory compliance architecture. Its development provenance, CSIRO and the University of Sydney, provides the research credibility and security audit standards expected by institutional users.
+Redbelly Network's participation in the RBA's Project Acacia positions Tokeniser at the centre of Australia's development of public digital token infrastructure for wholesale financial markets.
+Track record
+Tokeniser has established a track record across Australian fund structures and companies that demonstrates the platform's capability at scale. A$1.2 billion in issued equity value. Over A$2 billion in transactions processed. More than 160 companies and funds operating on the platform.
+A$1.2B
+issued equity value
+A$2B+
+transactions processed
+160+
+companies and funds on the platform
+Named clients include Komo Energy, Holon Global Investments, and EnviroMission. Tokeniser's partnership with IQEQ, a leading global fund administrator, provides institutional validation of the platform for professional fund administration use.
+Regulatory positioning
+Tokeniser operates under Australian law and is designed for the Australian regulatory environment. Tokeniser is Public Digital Token Infrastructure (PDTI) for asset managers and investors to utilise protocol finance. Fund managers using Tokeniser administer their funds under the Corporations Act and ASIC's licensing regime in the same way they would with traditional infrastructure. The platform's compliance architecture is built to meet Australian PDTI definition and facilitate asset issuers AML/CTF obligations and ASIC's requirements for managed investment scheme and company administration within the asset issuers existing regulator perimeter.
+Talk to us about tokenising your fund
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+Book a demo
+Contact us
+Frequently asked questions
+Is Tokeniser a cryptocurrency platform?
+×
+No. Tokeniser is a digital asset administration platform for regulated financial assets, fund units, equity shares, loan notes, and structured products. It is not a cryptocurrency exchange, wallet provider, or crypto investment platform.
+Is Tokeniser regulated in Australia?
++
+Tokeniser operates under the existing Australian regulatory framework, the Corporations Act as Public Digital Token Infrastructure (PDTI) operating within a licensed asset managers regulatory perimeter. Fund managers using Tokeniser administer their funds under their existing AFSL or the AFSL of the relevant responsible entity.
+How does Tokeniser differ from other tokenisation platforms?
++
+Tokeniser is purpose-built for the Australian regulatory environment and Australian fund and MIS structures. It is built on Redbelly Network, which has the strongest research provenance of any Australian blockchain (CSIRO and the University of Sydney) and is a Project Acacia participant. Its track record of A$2B+ in transactions across 160+ entities is unmatched in the Australian market.
+Can I see a demo of Tokeniser?
++
+Yes. Book in a session with the Tokeniser team to see a platform demonstration tailored to your fund structure and requirements.
+Sources
+Tokeniser. Platform statistics and credentials. May 2026.
+Redbelly Network. Technical documentation. 2026.
+Reserve Bank of Australia. “Project Acacia.” November 2024.
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Redbelly Network. “Tokenised asset-backed security transaction pilot launches under Project Acacia.” Media release, 11 December 2025. AMAL (part of IQ-EQ) named as consortium trustee partner.
+Related pages
+How does Tokeniser work?
+PLATFORM
+What is a digital asset administration platform?
+PLATFORM
+What is protocol finance?
+PLATFORM
+What is Redbelly Network?
+PLATFORM
+Why tokenise your assets?
+BUSINESS CASE
+Where do I tokenise assets in Australia?
+AUSTRALIA
+© Tokeniser 2026. All rights reserved.
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+Contact
+Contact sales
+Request a demo
+PRIVACY
+We use cookies
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+Accept all
+Reject all
+Manage preferences

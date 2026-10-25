@@ -1,0 +1,211 @@
+{
+  "sources": [
+    {
+      "id": "tk-home",
+      "url": "https://tokeniser.com/",
+      "title": "Give your Australian fund a global edge | Tokeniser",
+      "file": "evidence/tk-home.txt",
+      "captured_utc": "2026-10-25T14:59:16.943Z",
+      "sha256": "f833d6ea10abcf409422c857ec407feddf743b2da46a9f641cce6dde2a778b7e",
+      "characters": 4726
+    },
+    {
+      "id": "tk-product",
+      "url": "https://tokeniser.com/product",
+      "title": "Product - Tokeniser | Your registry with superpowers",
+      "file": "evidence/tk-product.txt",
+      "captured_utc": "2026-10-25T14:59:24.582Z",
+      "sha256": "5f2f37a2d4bdb2c2f9fc4a6b77ea3eda38aa6ba5007a833263ffed7fc3d0162c",
+      "characters": 2561
+    },
+    {
+      "id": "tk-technology",
+      "url": "https://tokeniser.com/technology",
+      "title": "Our Technology | Proven Australian infrastructure | Tokeniser",
+      "file": "evidence/tk-technology.txt",
+      "captured_utc": "2026-10-25T14:59:32.163Z",
+      "sha256": "7efedb3fa7a73d3650439c2322644610d9e94f49c1982087587285e6e302ca01",
+      "characters": 7242
+    },
+    {
+      "id": "tk-getting-started",
+      "url": "https://tokeniser.com/product/getting-started",
+      "title": "Getting Started - Tokeniser Product | Tokenisation tailored for your fund",
+      "file": "evidence/tk-getting-started.txt",
+      "captured_utc": "2026-10-25T14:59:39.760Z",
+      "sha256": "1acf0b860073e82ce56a0a16d68f5ae1d8876bf8d54a3e616097aaf2bd5b6ed5",
+      "characters": 4867
+    },
+    {
+      "id": "tk-automated-compliance",
+      "url": "https://tokeniser.com/product/superpowers/automated-compliance",
+      "title": "Automated compliance - Tokeniser Superpower",
+      "file": "evidence/tk-automated-compliance.txt",
+      "captured_utc": "2026-10-25T14:59:47.581Z",
+      "sha256": "6947840daee4717724b4a8dfba0bbf7282c72ef5a4afef867ff7f9dd4d78fdbb",
+      "characters": 2574
+    },
+    {
+      "id": "tk-instant-settlement",
+      "url": "https://tokeniser.com/product/superpowers/instant-settlement",
+      "title": "Instant settlement - Tokeniser Superpower",
+      "file": "evidence/tk-instant-settlement.txt",
+      "captured_utc": "2026-10-25T14:59:55.209Z",
+      "sha256": "f7003ffc2963ad97b9f1859a2a96f0b0e2ddb27f28b95ec145ae54ad6d10fe9c",
+      "characters": 2543
+    },
+    {
+      "id": "tk-real-time-transparency",
+      "url": "https://tokeniser.com/product/superpowers/real-time-transparency",
+      "title": "Real-time transparency - Tokeniser Superpower",
+      "file": "evidence/tk-real-time-transparency.txt",
+      "captured_utc": "2026-10-25T15:00:02.858Z",
+      "sha256": "f9a06ac753bfaaca0d5e14554ec1346ef991a3214deeffc0f485f0f646a329fe",
+      "characters": 2692
+    },
+    {
+      "id": "tk-distribution",
+      "url": "https://tokeniser.com/product/distribution",
+      "title": "Distribution - Tokeniser Product | Open more markets",
+      "file": "evidence/tk-distribution.txt",
+      "captured_utc": "2026-10-25T15:00:10.485Z",
+      "sha256": "0bcfd29d61c324c08738f0bc439f78abdf60b85c9d2384ccd30a9ddca8557889",
+      "characters": 3791
+    },
+    {
+      "id": "tk-efficiency",
+      "url": "https://tokeniser.com/product/efficiency",
+      "title": "Efficiency - Tokeniser Product | Cut cost and administration",
+      "file": "evidence/tk-efficiency.txt",
+      "captured_utc": "2026-10-25T15:00:18.154Z",
+      "sha256": "2351c488936c571f62d7971eaf8b64ec509bd6e8ead338bcc3b70deddac0a846",
+      "characters": 2837
+    },
+    {
+      "id": "tk-funds",
+      "url": "https://tokeniser.com/solutions/funds",
+      "title": "For Funds — Tokeniser",
+      "file": "evidence/tk-funds.txt",
+      "captured_utc": "2026-10-25T15:00:25.955Z",
+      "sha256": "1f5f17209ad26694768e2b8d5d42e664d5a4b73b396120f6059632bb9bc735d1",
+      "characters": 7056
+    },
+    {
+      "id": "tk-asset-administrators",
+      "url": "https://tokeniser.com/solutions/asset-administrators",
+      "title": "For Asset Administrators — Tokeniser",
+      "file": "evidence/tk-asset-administrators.txt",
+      "captured_utc": "2026-10-25T15:00:33.527Z",
+      "sha256": "7b5574f3c8a95bc37a42590258fb58096e96d2875e89335ce3146d4793c4327e",
+      "characters": 8697
+    },
+    {
+      "id": "tk-protocol-finance",
+      "url": "https://tokeniser.com/protocol-finance",
+      "title": "Protocol Finance | Public digital token infrastructure | Tokeniser",
+      "file": "evidence/tk-protocol-finance.txt",
+      "captured_utc": "2026-10-25T15:00:41.249Z",
+      "sha256": "641cd8afa0df7afc7cd0ad6c97e344cb999ebc6a6d21dc81488703cd37a5763f",
+      "characters": 9828
+    },
+    {
+      "id": "tk-why-tokenise",
+      "url": "https://tokeniser.com/why-tokenise",
+      "title": "Why tokenise? Why now? — Tokeniser",
+      "file": "evidence/tk-why-tokenise.txt",
+      "captured_utc": "2026-10-25T15:00:49.152Z",
+      "sha256": "411b664247b37269d3a6f7207bfacdc2389b7891b89175f4701452c7f295201a",
+      "characters": 8489
+    },
+    {
+      "id": "tk-about",
+      "url": "https://tokeniser.com/about",
+      "title": "About Us | Sovereign infrastructure for regulated finance | Tokeniser",
+      "file": "evidence/tk-about.txt",
+      "captured_utc": "2026-10-25T15:00:56.742Z",
+      "sha256": "b08bff2fa899e9835854b7304a85b1f380c1b010c83f7622786d79c00d49d201",
+      "characters": 3629
+    },
+    {
+      "id": "tk-kh-how-does-tokeniser-work",
+      "url": "https://tokeniser.com/resources/knowledge-hub/platform/how-does-tokeniser-work",
+      "title": "How does Tokeniser work? | Tokeniser",
+      "file": "evidence/tk-kh-how-does-tokeniser-work.txt",
+      "captured_utc": "2026-10-25T15:01:04.288Z",
+      "sha256": "c01aeaced2dc6c368f8c040eb98f0f070a753237b6e5ff388607050f6fe24af5",
+      "characters": 10377
+    },
+    {
+      "id": "tk-kh-what-is-tokeniser",
+      "url": "https://tokeniser.com/resources/knowledge-hub/platform/what-is-tokeniser",
+      "title": "What is Tokeniser? | Tokeniser",
+      "file": "evidence/tk-kh-what-is-tokeniser.txt",
+      "captured_utc": "2026-10-25T15:01:11.725Z",
+      "sha256": "0788f534a4c24a0c637a1292fa0d4785b1a4b497a303a633f727403f8886461f",
+      "characters": 9187
+    },
+    {
+      "id": "tk-kh-investor-compliance",
+      "url": "https://tokeniser.com/resources/knowledge-hub/australia/how-tokeniser-handles-investor-compliance",
+      "title": "How does Tokeniser handle investor compliance? | Tokeniser",
+      "file": "evidence/tk-kh-investor-compliance.txt",
+      "captured_utc": "2026-10-25T15:01:20.217Z",
+      "sha256": "713e6847e7ee438211022ae56880089fdb2910ab27a1eda8c3c5f29e6506ae85",
+      "characters": 8488
+    },
+    {
+      "id": "tk-kh-tokenise-a-fund",
+      "url": "https://tokeniser.com/resources/knowledge-hub/australia/how-to-tokenise-a-fund-in-australia",
+      "title": "How to tokenise a fund in Australia | Tokeniser",
+      "file": "evidence/tk-kh-tokenise-a-fund.txt",
+      "captured_utc": "2026-10-25T15:01:28.092Z",
+      "sha256": "8f5d825fb94e75a34cfd01464acfb61f86d4c7aa9e9f03287a980f86b628373f",
+      "characters": 10477
+    },
+    {
+      "id": "tk-kh-why-tokenise",
+      "url": "https://tokeniser.com/resources/knowledge-hub/business-case/why-tokenise-your-assets",
+      "title": "Why tokenise your assets? | Tokeniser",
+      "file": "evidence/tk-kh-why-tokenise.txt",
+      "captured_utc": "2026-10-25T15:01:35.872Z",
+      "sha256": "54c5c356632947b7b56978ea3543c088a3b89c0f844fe3bdf32d1ad37bedbde0",
+      "characters": 8301
+    },
+    {
+      "id": "rb-asset-tokenisation",
+      "url": "https://redbelly.network/asset-tokenisation",
+      "title": "Redbelly Network | Asset Tokenization",
+      "file": "evidence/rb-asset-tokenisation.txt",
+      "captured_utc": "2026-10-25T15:01:45.657Z",
+      "sha256": "fe7d572b5a01aa1c9d5c6ae91097a33eebb5d587e04a96810aee1b30347a2296",
+      "characters": 5475
+    },
+    {
+      "id": "rb-home",
+      "url": "https://redbelly.network/",
+      "title": "Redbelly Network | Real World Asset Tokenization",
+      "file": "evidence/rb-home.txt",
+      "captured_utc": "2026-10-25T15:02:10.028Z",
+      "sha256": "3d0deb8be88ddc0669f6bd6a4d92c73a285c6df868d2fd4fb0237903650dcdc2",
+      "characters": 4923
+    },
+    {
+      "id": "rb-brand",
+      "url": "https://redbelly.network/brand",
+      "title": "Redbelly Network Brand Guidelines | Brand",
+      "file": "evidence/rb-brand.txt",
+      "captured_utc": "2026-10-25T15:02:19.245Z",
+      "sha256": "6be6675e7ee4736cb296bb54a55f08de3e9efb39e7e05ec4315e287933ef2b78",
+      "characters": 2467
+    },
+    {
+      "id": "tb-brand",
+      "url": "https://taskboard.redbellydao.network/brand",
+      "title": "Redbelly DAO Task Board Brand Kit",
+      "file": "evidence/tb-brand.txt",
+      "captured_utc": "2026-10-25T15:02:27.048Z",
+      "sha256": "0b9d3b54298d0463354fc7620e8bbfebdf63c64b96894039437eadb6ce4f935d",
+      "characters": 11073
+    }
+  ]
+}

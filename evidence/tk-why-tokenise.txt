@@ -1,0 +1,148 @@
+SOURCE: https://tokeniser.com/why-tokenise
+TITLE: Why tokenise? Why now? — Tokeniser
+CAPTURED (UTC): 2026-10-25T15:00:49.152Z
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+WHY TOKENISE? WHY NOW?
+Tokenisation is operational in Australia.
+The Corporations Amendment (Digital Assets Framework) Act 2026 received Royal Assent on 8 April 2026. The question is no longer whether. It is where you stand and how you move.
+Take the Readiness Index
+Book a Readiness Session
+A$24bn
+Annual opportunity
+The estimated annual tokenisation opportunity for Australia, across funds, credit, and real assets.
+Market sizing
+24
+Project Acacia participants
+Industry firms selected by the RBA and Treasury to deliver tokenised asset pilots in Australia.
+Public pilot
+1
+Public permissioned network
+Redbelly Network was the public permissioned chain selected to underpin Project Acacia.
+Redbelly Network
+THE SERIES
+Three briefs. One argument.
+The commercial case for tokenisation, the window of opportunity now open in Australia, and the cost of waiting. Each brief stands alone; together they make the complete case.
+1
+BRIEF 01
+The commercial case for tokenisation
+Five outcomes for organisations that engage during the window: revenue expansion, cost reduction, capital efficiency, competitive positioning, and strategic optionality.
+Read the brief →
+2
+BRIEF 02
+Why the window is open
+Three converging conditions created this moment: legal clarity from the Digital Assets Framework, production-grade infrastructure on Redbelly Network, and accelerating international momentum.
+Read the brief →
+3
+BRIEF 03
+The cost of waiting
+Five costs that accumulate while organisations delay: client loss, distribution erosion, partner cost inflation, execution premium, and optionality foreclosure.
+Read the brief →
+INSIDE THE BRIEFS
+What each brief covers.
+A preview of the argument in each. The full briefs carry the evidence, the segment breakdowns, and the sources.
+01
+THE COMMERCIAL CASE FOR TOKENISATION
+Tokenisation is a capability unlock, not a cheaper way to do the same thing. It produces five outcomes traditional infrastructure cannot: revenue expansion, cost reduction, capital efficiency, competitive positioning, and strategic optionality.
+US$3tn
+Cumulative tokenised volume processed on J.P. Morgan's Kinexys platform, with over US$5 billion in daily transactions. These are production numbers, not pilot results.
+US$500m+
+AUM reached by BlackRock's BUIDL within months of launch. Franklin Templeton's FOBXX holds around US$800 million across 661 wallet addresses.
+1.5–2.5%
+Typical Australian retail fund fees, against 0.55–0.65% wholesale. Most of the gap is distribution cost. For a A$500m fund, that is A$5m to A$10m a year that tokenised distribution can recover.
+Get Brief 01
+02
+WHY THE WINDOW IS OPEN
+Three conditions have converged for the first time: legal clarity from the Digital Assets Framework, production-grade infrastructure tested by the RBA, and international markets Australian organisations can now join rather than pioneer.
+9 Apr 2027
+The Framework passed Parliament on 1 April 2026 and commences 9 April 2027. The 12 months between is not a delay. It is the early-mover window while ASIC consults on standards.
+24 firms
+Project Acacia tested more than 20 use cases across bonds, repos, and funds, with CBA, ASX, and J.P. Morgan Kinexys. Redbelly Network was the public permissioned chain selected.
+40+
+Financial institutions now in Singapore's Project Guardian, including Apollo, UBS, State Street, and Franklin Templeton. The cross-border market structure already exists.
+Get Brief 02
+03
+THE COST OF WAITING
+Waiting is not neutral in a forming market. Five costs accumulate quietly during delay: client and investor loss, distribution erosion, partner cost inflation, execution premium, and optionality foreclosure. They compound.
+18–24 mths
+How long these costs stay invisible. They rarely show as line items. They surface later in slower client acquisition, higher partner costs, and narrowed product sets, by which point they are already paid.
+A$17.4tn
+AUM represented by the UK Investment Association, which joined Project Guardian in 2025. Distribution relationships signed during formation become the templates later entrants negotiate against.
+Never zero
+The share of clients lost during a wait who stay with the organisation they chose. Client relationships, once formed, carry significant inertia and are not fully recoverable.
+Get Brief 03
+We no longer see the main question as whether tokenisation has a future in Australia's financial system, but rather, how.
+Brad Jones, Reserve Bank of Australia — “After Acacia” speech, 25 March 2026
+FIND YOUR CONTEXT
+The structural questions are the same. The context is different.
+The framework applies differently depending on your operating model. Below is how it lands across the four segments we work with most.
+Fund managers
+Tokenised unit classes, scheme structure, and registry requirements.
+Non-bank lenders
+Tokenised loan assets, funding structures, and capital markets access.
+Fintechs
+Infrastructure classification, product design, and regulatory posture.
+Service providers
+Advice obligations and service delivery for legal, advisory, and accounting firms.
+THE COMMERCIAL CASE, IN SHORT
+Five outcomes traditional infrastructure cannot deliver.
+Each applies across fund managers, non-bank lenders, fintechs, and service providers, though the mechanism differs between issuers and enablers. Brief 01 works through all five by segment.
+01
+Revenue expansion
+Expanded addressable markets, margin recovered from disintermediated distribution, and product categories that could not exist before.
+02
+Cost reduction
+Automated administration, reduced reconciliation overhead, and compressed settlement cycles. The outcome early movers realise fastest.
+03
+Capital efficiency
+Faster deployment and recycling, liquidity premium compression, and collateral mobility. Often the largest outcome by quantum.
+04
+Competitive positioning
+Early-mover positioning compounds and is hard to displace. A window outcome, progressively less available as the market matures.
+05
+Strategic optionality
+The ability to move on your own terms rather than the market's. Most valuable before it is needed, least recoverable once it is.
+Many institutions are still in wait-and-see mode while early movers can capture oversized market share.
+McKinsey & Company — “From ripples to waves”, 2024
+TOKENISATION READINESS INDEX
+Find out where you actually stand.
+A free 12-question assessment for organisations exploring tokenisation.
+Start now
+Book a Demo
+Free to complete. No consultant required. Results delivered by email.
+YOUR RESULT
+Three bands. One path forward.
+Where you land determines what comes next, not whether you proceed.
+FOUNDATION
+Clarify before you commit
+Unresolved questions around classification, compliance posture, or internal alignment. The right move is structured scoping before platform selection.
+BUILDING
+Gaps identified. Sequence matters.
+Meaningful groundwork in place, with two or three dimensions requiring resolution. A Readiness Session surfaces the right order of operations.
+READY
+Conditions met. Move now.
+Foundational questions resolved and positioned to engage. Early movers in this band can begin structuring before partner costs and execution premiums increase.
+© Tokeniser 2026. All rights reserved.
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+Contact
+Contact sales
+Request a demo
+This page is for informational purposes only and does not constitute legal, financial, regulatory, or tax advice. The content reflects Tokeniser's reading of the Corporations Amendment (Digital Assets Framework) Act 2026 and related materials as at the date of publication. Nothing on this page should be relied upon as the basis for any business, legal, or investment decision. Readers should obtain independent professional advice appropriate to their circumstances before taking any action in connection with any matter described on this page.
+PRIVACY
+We use cookies
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+Accept all
+Reject all
+Manage preferences

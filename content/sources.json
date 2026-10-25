@@ -1,0 +1,28 @@
+{
+  "note": "Every page the script relies on. tools/capture_sources.cjs saves a dated text snapshot of each one into evidence/ with a SHA-256 hash, so the fact check can be repeated offline.",
+  "sources": [
+    { "id": "tk-home", "url": "https://tokeniser.com/" },
+    { "id": "tk-product", "url": "https://tokeniser.com/product" },
+    { "id": "tk-technology", "url": "https://tokeniser.com/technology" },
+    { "id": "tk-getting-started", "url": "https://tokeniser.com/product/getting-started" },
+    { "id": "tk-automated-compliance", "url": "https://tokeniser.com/product/superpowers/automated-compliance" },
+    { "id": "tk-instant-settlement", "url": "https://tokeniser.com/product/superpowers/instant-settlement" },
+    { "id": "tk-real-time-transparency", "url": "https://tokeniser.com/product/superpowers/real-time-transparency" },
+    { "id": "tk-distribution", "url": "https://tokeniser.com/product/distribution" },
+    { "id": "tk-efficiency", "url": "https://tokeniser.com/product/efficiency" },
+    { "id": "tk-funds", "url": "https://tokeniser.com/solutions/funds" },
+    { "id": "tk-asset-administrators", "url": "https://tokeniser.com/solutions/asset-administrators" },
+    { "id": "tk-protocol-finance", "url": "https://tokeniser.com/protocol-finance" },
+    { "id": "tk-why-tokenise", "url": "https://tokeniser.com/why-tokenise" },
+    { "id": "tk-about", "url": "https://tokeniser.com/about" },
+    { "id": "tk-kh-how-does-tokeniser-work", "url": "https://tokeniser.com/resources/knowledge-hub/platform/how-does-tokeniser-work" },
+    { "id": "tk-kh-what-is-tokeniser", "url": "https://tokeniser.com/resources/knowledge-hub/platform/what-is-tokeniser" },
+    { "id": "tk-kh-investor-compliance", "url": "https://tokeniser.com/resources/knowledge-hub/australia/how-tokeniser-handles-investor-compliance" },
+    { "id": "tk-kh-tokenise-a-fund", "url": "https://tokeniser.com/resources/knowledge-hub/australia/how-to-tokenise-a-fund-in-australia" },
+    { "id": "tk-kh-why-tokenise", "url": "https://tokeniser.com/resources/knowledge-hub/business-case/why-tokenise-your-assets" },
+    { "id": "rb-asset-tokenisation", "url": "https://redbelly.network/asset-tokenisation" },
+    { "id": "rb-home", "url": "https://redbelly.network/" },
+    { "id": "rb-brand", "url": "https://redbelly.network/brand" },
+    { "id": "tb-brand", "url": "https://taskboard.redbellydao.network/brand" }
+  ]
+}

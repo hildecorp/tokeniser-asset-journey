@@ -1,0 +1,176 @@
+SOURCE: https://tokeniser.com/protocol-finance
+TITLE: Protocol Finance | Public digital token infrastructure | Tokeniser
+CAPTURED (UTC): 2026-10-25T15:00:41.249Z
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+PROTOCOL FINANCE
+Capital markets functions, delivered on public infrastructure
+Australia's digital assets framework recognises open, permissionless protocols as Public Digital Token Infrastructure: a category outside markets, clearing and settlement, and custody licensing. Tokeniser builds fund and equity administration on top of it.
+Talk to Tokeniser
+See it applied to funds
+WHY AUSTRALIA, WHY NOW
+A sovereign first-mover window
+Australia is first to write a clean, protocol-level exemption into primary law. That clarity is a sovereign asset: the opportunity to rebuild capital-markets infrastructure on public rails while comparable regimes are still settling their own rules.
+A$24B/yr
+Productivity gains from digital finance, roughly 1% of GDP
+SOURCE: DFCRC
+A$10B + A$6B
+Better Markets and Better Assets: liquidity and collateral efficiency, each year
+SOURCE: DFCRC
+US$30T
+Tokenised assets projected to be under management by 2034
+SOURCE: STANDARD CHARTERED
+WHAT THE LAW NOW SAYS
+Four defined concepts, one clear line
+The Corporations Amendment (Digital Assets Framework) Act 2026 inserts four core concepts into the Corporations Act 2001. For the first time the law names the regulated activity separately from the public infrastructure it runs on.
+S 9
+Digital token
+An electronic record a person can exclusively control. The base unit the framework regulates.
+S 761GC
+Digital asset platform
+A facility where an operator possesses tokens for clients. Sits inside the AFSL regime.
+S 761GD
+Tokenised custody platform
+A facility where an operator holds non-token assets and tokenises them for clients.
+S 9E
+Public digital token infrastructure
+Open, permissionless protocols. Exempt, and not a financial product, managed investment scheme, market or clearing and settlement facility.
+The distinction is the whole point: conduct is licensed, and the infrastructure beneath it is public.
+THE EXEMPTION, SECTION 9E
+Three tests a protocol passes
+Public digital token infrastructure is software or hardware used to transmit, process or record digital tokens, where its protocols satisfy three requirements (s 9E(2)). Meet all three and the infrastructure sits outside the financial services regime.
+01
+s 9E(2)(a)
+Open and non-discretionary
+Protocols are open-source, publicly accessible standards. Participants follow them exactly, so outcomes are predictable and can be automated.
+02
+s 9E(2)(b)
+Permissionless contribution
+Any person can contribute to the integrity and operation of the infrastructure, by staking, validating or running a node, in a technology-neutral way.
+03
+s 9E(2)(c)
+No critical participant
+No single role is so critical that processing cannot happen without it. A foundation may fund or develop code while execution stays with the network.
+Governance can change a protocol and it remains public digital token infrastructure, provided those changes keep participation open and leave execution with the network (EM 1.340).
+WHAT THE EXEMPTION COVERS
+Three authorisations the protocol layer sits outside
+A compliant protocol layer is carved out of all three capital-intensive authorisations that shaped the previous market structure. This is the core of the opportunity.
+Markets licence
+An Australian Market Licence is not required for public digital token infrastructure, which is excluded from the managed investment scheme and financial product definitions.
+s 9 (mf) · 765A(1)
+Clearing and settlement
+Contributing to the integrity and operation of the infrastructure is treated as its own activity. Validation and consensus are not financial services.
+768A(2)(ha) · 766A(3)
+Custody
+Decentralised wrapping software and public infrastructure are not tokenised custody platforms. The protocol holds nothing for or on behalf of a client.
+765E · s 761GD
+What remains licensed is the conduct of the intermediary: dealing, advising and issuing a platform, all of which sit with the issuer's AFSL.
+LEGISLATIVE INTENT
+The Memorandum names the categories
+The Explanatory Memorandum works through examples that place protocols such as automated market makers and lending protocols outside the licensing perimeter. The exemption is intentional.
+EM 1.338
+A decentralised-application protocol governing how participants transmit, process and record token swaps through liquidity pools is cited as the reference example of that protocol category.
+EM EXAMPLE 1.26
+A worked automated market maker example, published by a foundation with no control over the protocol, is concluded to be public digital token infrastructure. It reads as a direct template.
+EM 1.369
+Smart-contract protocols, including automated market makers and interoperability protocols, are treated as public infrastructure.
+DEFINING THE CATEGORY
+What Protocol Finance means
+Protocol Finance is the delivery of capital-markets functions, trading, lending, settlement and custody, through exempt public protocols. The intermediary's role focuses on compliant access and conduct.
+FUNCTION
+WHERE IT SITS UNDER PROTOCOL FINANCE
+Trading and matching
+Automated market maker protocol, exempt public infrastructure (EM 1.369)
+Clearing and settlement
+Network consensus, treated as its own activity under 768A
+Lending and credit
+Lending protocol, a decentralised application
+Custody
+Self-custody and wrapping software (765E)
+Where the issuer sits
+Issuance, conduct and disclosure, under the issuer's AFSL
+The licensed perimeter sits where it belongs, at issuance and conduct toward the investor. Everything beneath it is shared public infrastructure.
+THE TURNKEY STACK
+Issuance to utility, inside the AFSL perimeter
+For an issuer the three layers are turnkey: issue once, and the same asset gains distribution, liquidity and financing, while regulated obligations stay exactly where they already are.
+ISSUE
+Tokeniser
+Compliant issuance and lifecycle of tokenised assets using ERC-3643 and ERC-7575 structures. The issuer's AFSL covers the offer, and the rails beneath are exempt public infrastructure.
+REACH
+Averer
+Identity and the non-custodial, AI-native wallet. Verifiable credentials gate every holder, which enables direct-to-investor distribution within the issuer's mandate.
+SETTLE AND PROGRAM
+Redbelly Network
+A settlement layer with deterministic finality, and programmable composability with automated market maker and lending protocols, exempt from market, clearing and settlement, and custody licensing.
+Turnkey means the issuer integrates once and inherits the whole utility layer, with market, settlement and custody infrastructure already in place.
+UTILITY UNLOCKED
+Four utilities the infrastructure unlocks
+Tokenising on Redbelly makes the asset do more. Each utility maps to a value pool DFCRC has quantified for the Australian economy.
+Agentic distribution
+Credential-gated distribution straight to eligible investors' wallets, with fewer layers between the issuer and the holder.
+DIRECT TO INVESTOR
+Secondary liquidity
+On-network automated market makers give otherwise illiquid assets a continuous secondary market, as exempt infrastructure (EM 1.369).
+BETTER MARKETS · A$10B P.A.
+Financing and leverage
+Tokenised assets become composable collateral in lending protocols, which unlocks financing and balance-sheet efficiency.
+BETTER ASSETS · A$6B P.A.
+Back-office programmability
+Programme funds, SPVs and warehouses as multi-asset vaults with ERC-7575. Subscriptions, NAV and redemptions automate.
+COST AND EFFICIENCY
+THE COMPLIANT STRUCTURE
+It stays inside your AFSL perimeter
+Your regulated obligations stay exactly where they already are. The protocol layer that adds utility is exempt.
+INSIDE THE AFSL PERIMETER, UNCHANGED
+Issuer conduct
+Offer and disclosure
+Issuing the product or platform
+Investor onboarding and KYC
+Custody arrangements where applicable
+Ongoing AFSL obligations
+EXEMPT PUBLIC INFRASTRUCTURE · S 9E
+Utility layer
+Automated market maker secondary liquidity
+Lending and borrowing
+Agentic distribution rails
+ERC-7575 vault programmability
+Consensus and settlement
+Access to the utility layer works with the authorisations you already hold.
+GUARDRAILS
+Where care is still required
+The offer is still regulated
+The exemption covers the infrastructure and the utility layer. Issuing or advising on a financial product remains an AFSL activity.
+Regulations can move the line
+Section 9E lets regulations prescribe protocols in or out, so ongoing engagement with Treasury and ASIC matters.
+The critical participant test
+A protocol with a controlling foundation, admin key or privileged role needs to evidence its design and ongoing decentralisation against s 9E(2)(c).
+Rights attached to tokens
+Wrapping exemptions address the redemption right. Tokens carrying other financial-product rights are regulated on their substance.
+General information only, and not financial or legal advice.
+The infrastructure is ready. The question is what you'll build on it?
+Whether you issue and manage funds or set the rules they run on, the foundation is already in place. Talk to the team about what you can build on it.
+Talk to Tokeniser
+Solutions for funds
+© Tokeniser 2026. All rights reserved.
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+Contact
+Contact sales
+Request a demo
+PRIVACY
+We use cookies
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+Accept all
+Reject all
+Manage preferences

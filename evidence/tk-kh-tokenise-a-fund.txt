@@ -1,0 +1,125 @@
+SOURCE: https://tokeniser.com/resources/knowledge-hub/australia/how-to-tokenise-a-fund-in-australia
+TITLE: How to tokenise a fund in Australia | Tokeniser
+CAPTURED (UTC): 2026-10-25T15:01:28.092Z
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / AUSTRALIA
+ON THIS PAGE
+Short answer
+Key points
+Stage 1: Legal preparation
+Stage 2: Platform onboarding
+Stage 3: Compliance configuration
+Stage 4: Investor register establishment
+Fund type variations
+Frequently asked questions
+Sources
+Related pages
+Australia
+HOW-TO
+PAGE 10 OF 22
+How to tokenise a fund in Australia
+Tokenising a fund in Australia involves legal review, platform onboarding, investor register setup, and compliance configuration. Here is the step-by-step process for Australian fund managers.
+SHORT ANSWER
+Tokenising a fund in Australia follows a structured process that covers legal preparation, platform onboarding, compliance configuration, and investor register establishment. The process applies broadly across managed investment schemes, unit trusts, unlisted companies, and special purpose vehicles, with some variation depending on fund type and whether you are establishing a new fund or migrating an existing one. Australia's regulatory framework, the Corporations Act, ASIC's licensing regime, and the AML/CTF Act, applies to tokenised fund structures in the same way it applies to traditional ones. The practical steps are well-defined, and Tokeniser's onboarding team guides fund managers through each stage.
+TL;DR
+Australian regulatory framework applies: Corporations Act, ASIC, and AML/CTF obligations are unchanged for tokenised fund structures.
+The process has four stages: legal preparation, platform onboarding, compliance configuration, and investor register establishment.
+New funds can be established natively on tokenised infrastructure; existing funds can be migrated.
+Legal review of constitutional documents is a required first step. Some documents need amendment to permit on-chain ownership records and electronic transfer.
+Investor onboarding on Tokeniser is digital: KYC/AML verification is integrated at the point of wallet creation.
+The full answer
+Stage 1: Legal preparation
+1
+Confirm the documents and regulatory position
+Review the fund's constitutional documents, the trust deed, constitution, or shareholder agreement, to confirm they permit on-chain ownership records and electronic transfer of interests.
+Confirm the regulatory classification of the fund and its investors. Wholesale and retail structures carry different disclosure and compliance obligations.
+Confirm the fund manager's existing AFSL, or reliance on an AFSL holder. There is no separate tokenisation licence required in Australia.
+The first step in tokenising a fund in Australia is a legal review of the fund's constitutional documents, the trust deed, constitution, or shareholder agreement, to confirm that they permit on-chain ownership records and electronic transfer of interests. Many modern fund constitutions already accommodate this. Older constitutions may require amendment.
+At the same time, the fund manager should confirm the regulatory classification of the fund and its investors. Fund structures may be wholesale or retail, each with different disclosure and compliance obligations. Your specific obligations should be confirmed with your legal adviser. Retail fund structures involve additional disclosure and compliance obligations.
+The Australian Government's March 2025 Statement on Developing an Innovative Australian Digital Asset Industry confirmed that existing legal frameworks apply to tokenised assets. There is no separate tokenisation licence required in Australia. The fund manager's existing AFSL (or their reliance on an AFSL holder) covers the issuance of tokenised fund interests in the same way it covers traditional interests.
+Stage 2: Platform onboarding
+2
+Entity verification and token parameters
+Complete entity verification for the fund manager and the fund.
+Configure the fund's details and administrator accounts for the team members who will manage the register.
+For new funds, design the token parameters: asset class, compliance rules, and corporate action schedule.
+Once the legal framework is in place, the fund manager completes Tokeniser's platform onboarding process. This involves entity verification for the fund manager and the fund, configuration of the fund's details on the platform, and setup of the administrator accounts for the team members who will manage the register.
+For new funds, this stage also includes the design of the token parameters: the asset class, the compliance rules to be encoded (investor eligibility, transfer restrictions, foreign ownership limits), and the corporate action schedule.
+Stage 3: Compliance configuration
+3
+Rules that enforce automatically
+Configure KYC/AML verification requirements for investors.
+Set investor eligibility criteria, wholesale status, accredited investor status, and foreign investor limits.
+Set transfer restrictions, lock-up periods, permitted transferee classes, and any fund-specific restrictions.
+Tokeniser's compliance layer is configured at fund setup and enforces rules automatically at every subsequent transaction. The compliance configuration covers KYC/AML verification requirements for investors, investor eligibility criteria (wholesale status, accredited investor status, foreign investor limits), transfer restrictions (lock-up periods, permitted transferee classes), and any fund-specific restrictions required by the constitutional documents or the fund manager's AFSL conditions.
+Once configured, these rules operate automatically. The fund manager and administrator do not need to manually verify each transaction against them. The platform enforces them and flags any exceptions for review.
+Stage 4: Investor register establishment
+4
+New funds and migrations
+For a new fund, the investor register is established on-chain at the first token issuance.
+Investors complete digital onboarding, identity verification, investor classification, and wallet setup, before tokens are issued.
+For an existing fund, existing holder data is verified and migrated, then each investor completes digital onboarding before the on-chain register becomes the register of record.
+For a new fund, the investor register is established on-chain at the point of the first token issuance. Investors complete digital onboarding, identity verification, investor classification, and wallet setup, before their tokens are issued. The on-chain register is the register of record from day one.
+For an existing fund migrating to Tokeniser, the existing holder data is verified and migrated onto the platform. Each existing investor completes digital onboarding to create their wallet and verify their identity and investor classification under the new platform. Once the migration is complete and verified, the on-chain register becomes the register of record and the traditional register is retired.
+Fund type variations
+The process above applies broadly across fund types, but there are variations worth noting. Managed investment schemes registered with ASIC involve additional disclosure and compliance obligations compared to unregistered wholesale schemes. Private equity and private credit vehicles may have more complex transfer restriction requirements. Property funds may involve additional stamp duty considerations on transfer. Tokeniser's onboarding team and specialist legal advisers can advise on the specific requirements for your fund type.
+Talk to us about tokenising your fund
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+Book a demo
+Contact us
+Frequently asked questions
+Do I need a new AFSL to operate a tokenised fund?
+×
+No. Your existing AFSL (or the AFSL of the responsible entity or issuer) covers the issuance of tokenised fund interests under Australian law. There is no separate tokenisation licence. If you are currently issuing fund interests under an existing AFSL, the same authorisation covers the tokenised equivalent.
+How does AML/CTF compliance work for tokenised investors?
++
+Tokeniser integrates identity verification and AML/CTF screening into the investor onboarding process. Every investor completes KYC verification before their wallet is activated and tokens are issued. The compliance record is maintained on the platform and is available for regulatory audit.
+Can a foreign investor hold tokenised Australian fund units?
++
+Yes, subject to the foreign investor limits and eligibility criteria configured for your fund. These restrictions are enforced at the protocol layer. A transfer to a foreign investor that would breach the configured limit is automatically rejected.
+What happens if ASIC's regulatory position on tokenised assets changes?
++
+Tokeniser monitors ASIC's regulatory guidance and updates the platform's compliance framework accordingly. The fund manager's legal adviser should be engaged to review any material changes to ASIC's position and advise on any action required.
+Sources
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Australian Securities and Investments Commission. “Regulatory Guide 134: Managed investments, constitutions.”
+Australian Transaction Reports and Analysis Centre. “AML/CTF compliance for digital asset businesses.” 2025.
+Reserve Bank of Australia. “Project Acacia.” November 2024.
+Tokeniser. Onboarding documentation. May 2026.
+Related pages
+Where do I tokenise assets in Australia?
+AUSTRALIA
+Is asset tokenisation right for my fund?
+BUSINESS CASE
+How does Tokeniser handle investor compliance?
+AUSTRALIA
+Asset tokenisation checklist for fund managers
+GETTING STARTED
+How long does it take to tokenise a fund?
+GETTING STARTED
+What does asset tokenisation cost for fund managers?
+COMPARISON
+© Tokeniser 2026. All rights reserved.
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+Contact
+Contact sales
+Request a demo
+PRIVACY
+We use cookies
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+Accept all
+Reject all
+Manage preferences

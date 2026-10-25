@@ -1,0 +1,101 @@
+SOURCE: https://tokeniser.com/resources/knowledge-hub/australia/how-tokeniser-handles-investor-compliance
+TITLE: How does Tokeniser handle investor compliance? | Tokeniser
+CAPTURED (UTC): 2026-10-25T15:01:20.217Z
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / AUSTRALIA
+ON THIS PAGE
+Short answer
+Key points
+Investor onboarding and KYC/AML
+Protocol-layer compliance enforcement
+Ongoing compliance monitoring
+Compliance records and audit readiness
+The fund manager's role
+Frequently asked questions
+Sources
+Related pages
+Australia
+HOW-TO
+PAGE 12 OF 22
+How does Tokeniser handle investor compliance?
+Tokeniser enforces investor compliance at the protocol layer. KYC/AML verification, investor eligibility, transfer restrictions, and foreign ownership limits are built into every transaction. Here is how it works.
+SHORT ANSWER
+Tokeniser handles investor compliance through a combination of digital onboarding verification and protocol-layer enforcement. Every investor completes identity verification and investor classification before their wallet is activated and tokens can be issued or transferred to them. Compliance rules, KYC/AML status, investor eligibility criteria, transfer restrictions, and any fund-specific requirements, are encoded into the token at issuance and enforced automatically at every subsequent transaction. This means compliance is not a post-transaction check that can be missed or delayed. It is a precondition of every on-chain event, enforced by the protocol itself. Tokeniser collects the investor data required to support FATCA and CRS international tax reporting. This includes tax residency and, where applicable, US person status, so fund managers can meet their reporting obligations.
+TL;DR
+Every investor completes digital KYC/AML verification and investor classification before their wallet is activated.
+Compliance rules are encoded into the token at issuance and enforced automatically at every transfer.
+Non-compliant transfers, to unverified wallets, ineligible investors, or in breach of transfer restrictions, are rejected at the protocol layer before submission.
+Foreign ownership limits, lock-up periods, and wholesale investor thresholds are all configurable compliance parameters.
+Compliance records are maintained on-chain and available for regulatory audit at any time.
+The fund manager configures compliance parameters; Tokeniser enforces them. The fund manager does not need to manually verify each transaction.
+The full answer
+Investor onboarding and KYC/AML
+Every investor onboarding to Tokeniser completes a digital identity verification process integrated into the platform. This covers identity document verification, liveness checking, AML screening against sanctions and politically exposed person lists, and investor classification under the Corporations Act (wholesale investor status, sophisticated investor status, or other applicable classification).
+Until this process is complete and the investor's wallet is verified, tokens cannot be issued to or transferred into that wallet. The compliance gate is enforced at the wallet level, not at the fund administrator level. There is no manual step that can be bypassed.
+Protocol-layer compliance enforcement
+When a fund is established on Tokeniser, the fund manager configures the compliance parameters for that fund's tokens. These parameters are written into the token's smart contract and enforced automatically at every transfer. They can include: investor eligibility criteria (configured to the fund's applicable investor classifications), foreign investor limits (maximum percentage of the register that can be held by foreign investors), transfer restrictions (lock-up periods, permitted transferee classes, minimum holding periods), and any fund-specific restrictions required by the constitutional documents.
+When a transfer is initiated, the platform checks the receiving wallet against all configured compliance parameters before the transaction is submitted to the blockchain. A transfer that would breach any parameter is rejected before it is processed. The rejection is recorded, and the fund administrator is notified.
+Ongoing compliance monitoring
+Compliance does not end at onboarding. Tokeniser monitors investor compliance status on an ongoing basis. If an investor's KYC/AML status changes, for example, if they are subsequently identified on a sanctions list, the platform can flag or restrict their holdings for administrator review.
+Compliance records and audit readiness
+Every compliance check, every transfer, and every rejection is recorded on-chain and in the platform's compliance log. This creates an immutable audit trail that is available to fund administrators, auditors, and regulators at any time. The compliance record does not need to be compiled from multiple systems. It is maintained in a single, always-current record on the platform.
+The fund manager's role
+The fund manager's compliance role on Tokeniser is configuration and oversight, not transaction-level verification. The fund manager configures the compliance parameters at fund setup, reviews compliance logs periodically, and manages any exceptions flagged by the platform. The transaction-level compliance enforcement is handled automatically by the protocol.
+This does not eliminate the fund manager's regulatory responsibility. The fund manager remains responsible for ensuring the compliance parameters are correctly configured and that the platform's enforcement meets their regulatory obligations. Specialist legal and compliance advice is recommended when configuring parameters for the first time.
+Talk to us about tokenising your fund
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+Book a demo
+Contact us
+Frequently asked questions
+Does Tokeniser replace the fund manager's AML/CTF obligations?
+×
+No. Tokeniser provides the technology infrastructure for AML/CTF compliance, but the fund manager remains the reporting entity under the AML/CTF Act and retains regulatory responsibility for their compliance programme. Tokeniser's platform supports the fund manager in meeting those obligations through automated verification and record-keeping.
+What happens if an investor fails the KYC verification process?
++
+The investor's wallet is not activated, and tokens cannot be issued to or transferred to them. The fund administrator is notified, and the investor is given the opportunity to provide additional documentation or clarification.
+Can compliance parameters be changed after a fund is established?
++
+Yes, subject to the fund manager's constitutional documents and any regulatory requirements. Changes to compliance parameters are recorded on-chain with a timestamp and are visible in the audit log.
+How does Tokeniser handle investors who are classified differently in different jurisdictions?
++
+Investor eligibility is configured per fund, and the compliance parameters can accommodate multiple investor classifications. For funds with international investors, the parameters are configured to reflect both Australian requirements and the eligibility requirements of the relevant overseas jurisdictions.
+Sources
+Australian Transaction Reports and Analysis Centre. “AML/CTF compliance for digital asset businesses.” 2025.
+Australian Securities and Investments Commission. “Regulatory Guide 78: Breach reporting by AFS licensees.”
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Tokeniser. Compliance architecture documentation. May 2026.
+Related pages
+How to tokenise a fund in Australia
+AUSTRALIA
+What is self-custodial asset administration?
+PLATFORM
+Tokenised assets vs traditional securities: what changes for fund administrators?
+COMPARISON
+What are the risks of asset tokenisation?
+BUSINESS CASE
+Where do I tokenise assets in Australia?
+AUSTRALIA
+© Tokeniser 2026. All rights reserved.
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+Contact
+Contact sales
+Request a demo
+PRIVACY
+We use cookies
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+Accept all
+Reject all
+Manage preferences

@@ -1,0 +1,205 @@
+SOURCE: https://taskboard.redbellydao.network/brand
+TITLE: Redbelly DAO Task Board Brand Kit
+CAPTURED (UTC): 2026-10-25T15:02:27.048Z
+
+Task Board
+Downloads
+Light theme
+Task Board Brand Kit
+The visual reference for anything produced for the Redbelly DAO Community Task Board: the board itself, task graphics, social assets, and contributor deliverables.
+Scope, and what this is not
+Every value here is read from the live application at app/globals.css, not from a mood board. If a token changes in the app, it changes here. That is the point: contributors and the board should not drift apart.
+This is the Task Board brand, not Redbelly Network's corporate brand. It is built to sit consistently alongside Redbelly Network's own identity, but it is not a substitute for it and it does not govern Redbelly Network material. If a deliverable is going out under the Redbelly Network name rather than the DAO Task Board, check with the core team first.
+The design language is called Kinetic Consensus. It reads as corporate modern with a technical edge: deep slate surfaces, one high-impact red, generous negative space, monospace reserved for anything machine-generated. Industrial and robust, but approachable enough for a community board.
+Colour
+One accent, used everywhere, never joined by a second. The red is the only saturated colour in the system and it is reserved for high-impact actions, brand moments, and critical status. Everything else is a slate neutral.
+#EF5350
+Brand red. The single accent. Primary buttons, brand moments, the mark.
+#0c1317
+Base surface. Never pure black.
+#f1f5f8
+Primary text on dark.
+DARK SURFACES, LOWEST TO HIGHEST
+container lowest
+#070c0f
+Wells, inset areas
+surface / background
+#0c1317
+Page base
+background deep
+#0a1014
+Page ground, the darkest wide layer
+surface slate
+#141f26
+Cards, panels, modals
+panel edge
+#263641
+The 1px border that lifts a card off the page
+surface steel
+#1d3140
+Hero bands, category tiles, active status chips
+container
+#17222a
+Nested fills
+container high
+#223039
+Hairlines, soft dividers
+outline variant
+#34444f
+Borders
+outline
+#8fa1ad
+Secondary text, muted labels
+ACCENT AND STATE
+brand
+#EF5350
+Primary action fill
+primary (dark)
+#ffb3ae
+Accent text and links on dark
+ok
+#86EFAC
+Approved, complete, paid
+warn
+#FCD34D
+Pending, revision requested
+The accent flips value between themes. On dark, accent text is #ffb3ae, because #EF5350 does not carry enough contrast for small text on a slate ground. On light, it darkens to #B3272A for the same reason. The solid fill #EF5350 stays constant in both. Get this wrong and the accent either disappears or shouts.
+LIGHT COUNTERPART
+The board ships a light theme. It is the same brand, not a second one. Hero bands and summary bands stay in the dark steel palette in both themes, the way Redbelly Network sets a deep slate band against a pale page.
+surface
+#EDF1F4
+Page base
+surface slate
+#FFFFFF
+Cards
+surface steel
+#DDE6ED
+Category tiles, active status chips
+on surface
+#0F1A22
+Primary text
+primary (light)
+#B3272A
+Accent text and links
+Typography
+Be Vietnam Pro carries every heading and all body copy. JetBrains Mono is functional only: wallet addresses, transaction hashes, task IDs, timestamps, scores, and any other machine-generated value. Never use the mono for prose because it looks technical.
+Both are open-licence and free. Be Vietnam Pro and JetBrains Mono are both on Google Fonts. If a contributor's tool cannot embed them, the fallback order is the system UI sans and the system monospace, in that order. Never substitute a serif, and never substitute Inter as a stand-in.
+headline-xl / 48 / 700 / -0.02em
+Cycle 2 is open
+headline-lg / 32 / 600 / -0.01em
+Submission under review
+body-lg / 18 / 400 / 1.55
+Read the full task before you claim a slot. Claims expire after five days.
+body-md / 16 / 400 / 1.5
+Every deliverable listed on a task is required. A submission missing one is incomplete, not partial.
+label-mono / 14 / 500 / 0.05em
+TASK-19 0xb45ffb51984d626ee758b336c61cf20990c6bf13 31/35
+label-caps / 12 / 700 / 0.1em
+DOCUMENTATION
+RULES
+RULE VALUE WHY
+Body line height 1.5 Governance and technical documents get read end to end. Tight leading fatigues.
+Line length 65 to 75 characters Anything wider loses the reader between lines.
+Minimum body size on mobile 16px Most board traffic arrives from a Discord link on a phone.
+Heading emphasis Weight and colour Control hierarchy with weight, not raw scale. No oversized headings for their own sake.
+Logo
+There are two variants of the same lockup. Dark ink for light backgrounds, light ink for dark ones. Pick by background and never place either on a plate: the plate was a workaround from when only the dark variant existed, and it is retired.
+On dark. dao-logo-on-dark.png, bare, no plate.
+On light. dao-logo-on-light.png.
+On the brand red, use the light-ink variant.
+CONSTRAINT VALUE
+Shape Landscape, close to 7:5. The mark sits above the wordmark. Scale by height and let the width follow; never set both.
+Clear space Minimum the height of the mark's tallest letterform on all four sides. Nothing enters that box. The files already carry part of it, so do not crop them tight.
+Minimum size 28px tall on screen. Below that the wordmark stops reading, so use the favicon instead.
+Which variant Light ink on any surface darker than #DADDE1, including the brand red. Dark ink on anything lighter. Never a plate.
+Master files public/dao-logo-on-light.png and public/dao-logo-on-dark.png, copied alongside this page.
+Never recolour, stretch, rotate, add a shadow to, or place the mark over a busy photograph. If it will not read, use the wordmark in Be Vietnam Pro 700 instead.
+Shape, spacing, depth
+One radius scale, applied consistently. Soft enough to feel modern, square enough to stay architectural. Pill shapes are not used for primary buttons.
+TOKEN VALUE APPLIES TO
+radius base 4px Buttons, inputs, chips, small cards
+radius lg 8px Panels, modals, large containers
+radius full 9999px Status dots and avatars only
+spacing base 4px All component padding steps off this
+gutter 24px Grid columns
+margin, mobile 16px Strict. Never less.
+margin, desktop 64px Section separation uses 48, 64, 80
+max width 1280px Content column
+Depth is tonal, not shadowed. A card sits above the page because it is a lighter slate, with a 1px border a shade lighter than its own fill. Heavy drop shadows are not part of this system. Modals and navigation may use a backdrop blur of 12px to 20px over a semi transparent dark fill.
+Components
+BUTTONS
+Submit work
+Cancel
+Delete task
+Primary is a solid brand fill with white text. Secondary is a ghost with a neutral border that picks up the accent on hover. Destructive uses #DC2626, which is the one place a red other than the brand red is allowed, so that "delete" never reads as "confirm". Labels are one to three words and never wrap.
+INPUTS
+Deliverable link
+Focused state
+Label above the input, always. Never use a placeholder as the label. Focus takes the accent border plus a 2px aura. Error text sits below the field, not beside it.
+STATUS
+Approved
+Under review
+Rejected
+Withdrawn
+Status is a small dot plus a monospace label. It is not a filled pill. This keeps dense lists calm, which matters on the submissions and admin views where dozens stack vertically.
+CARDS
+Staking and Voting Power Explainer
+Locked versus unlocked positions, delegation timelines, and which wallet counts for Snapshot.
+Card header separated from body by a 1px rule. Use a card only when elevation communicates real hierarchy. Otherwise group with a top border or plain negative space.
+Social and graphic assets
+Sizes for anything produced for the DAO's channels. Deliver exports plus editable source files, always.
+ASSET DIMENSIONS NOTES
+X single image post 1600 x 900 16:9. Keep text inside a 5% safe margin.
+X square post 1080 x 1080 Better for dense reference graphics such as a venue list.
+X header 1500 x 500 The centre 1500 x 360 is the only reliably visible band.
+Discord embed image 1200 x 630 Also the correct Open Graph size for any linked page.
+Avatar 512 x 512 The lockup centred on a square, sized to leave full clear space left and right rather than filling the width. Pick the variant that suits the avatar background.
+Export format PNG SVG where the asset is pure vector. No JPEG for anything containing text.
+Graphics that carry facts which expire, such as a list of exchanges or a set of chain IDs, must carry a dated "last verified" line in the artwork itself. A screenshot outlives the post it was attached to.
+Voice and copy
+The board's writing is first person, direct, and plain. It owns mistakes rather than smoothing them over. These are hard rules for anything published under the DAO Task Board name.
+DO
+Use plain hyphens. Write two sentences where you were reaching for a longer pause.
+Say the number. "Five days", not "a few days".
+Name the thing that went wrong and what happens next.
+Cite the rule number when you invoke a rule, and pull it from the board, not from an older draft.
+Lead with the answer, then the reasoning.
+DO NOT
+No em dashes or en dashes. Anywhere. Not in copy, not in graphics, not in commit messages.
+No emoji. The board's own checkmark and cross glyphs are the only sanctioned symbols.
+No filler verbs. Not "elevate", "seamless", "unleash", "revolutionize".
+No corporate hedging. If a decision is not final, say what would make it final.
+No second accent colour introduced to make something feel important.
+Contrast
+Every pairing below meets WCAG AA. Anything not listed here has not been checked, so check it before shipping.
+FOREGROUND BACKGROUND RATIO USE
+#f1f5f8 #0c1317 17.09:1 Body text on dark. Passes AAA.
+#c2ced6 #0c1317 11.68:1 Secondary text on dark.
+#8fa1ad #0c1317 7.02:1 Muted labels. Do not go below this grey.
+#8fa1ad #141f26 6.28:1 The same muted grey on a card. Still AA, with less headroom.
+#ffb3ae #0c1317 10.98:1 Accent text and links on dark.
+#ffffff #EF5350 3.49:1 Primary button label. Large text only, 18px and up or 14px bold.
+#0F1A22 #EDF1F4 15.52:1 Body text on light.
+#B3272A #EDF1F4 5.71:1 Accent text on light.
+The white on brand red pairing is the one tight spot in the system at 3.5:1. It is fine for a button label at 14px bold or larger, which is how the board uses it. It is not fine for body copy, captions, or small print on a red field. If you need small text on red, invert: dark text on #ffdad7.
+Downloads
+The tokens below are generated from app/globals.css, so they always match the live board. Each file carries both themes: dark by default, light under data-theme="light".
+CSS
+CSS custom properties
+Drop into any stylesheet and use var(--brand).
+TW4
+Tailwind 4 theme
+Import after tailwindcss for classes like bg-surface-slate.
+SCSS
+Sass variables and theme maps
+$brand, $surface-slate, plus $theme-dark and $theme-light.
+JSON
+Design tokens (W3C format)
+Imports into Figma through Tokens Studio, or into Style Dictionary.
+PNG
+Logo for dark backgrounds
+Light ink. Also the one to use on the brand red.
+PNG
+Logo for light backgrounds
+Dark ink, for anything lighter than #DADDE1.
+Values read from app/globals.css in the Task Board repository. If the app and this page disagree, the app is right and this page needs updating.

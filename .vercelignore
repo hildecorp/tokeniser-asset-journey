@@ -1,0 +1,8 @@
+tools/
+evidence/
+build/
+node_modules/
+*.py
+requirements.txt
+package.json
+package-lock.json

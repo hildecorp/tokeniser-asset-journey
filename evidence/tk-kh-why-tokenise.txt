@@ -1,0 +1,115 @@
+SOURCE: https://tokeniser.com/resources/knowledge-hub/business-case/why-tokenise-your-assets
+TITLE: Why tokenise your assets? | Tokeniser
+CAPTURED (UTC): 2026-10-25T15:01:35.872Z
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+KNOWLEDGE HUB / BUSINESS CASE
+ON THIS PAGE
+Short answer
+Key points
+The problem with traditional asset administration
+What tokenisation changes
+The Australian context
+The numbers behind the case
+What it does not change
+Frequently asked questions
+Sources
+Related pages
+Business case
+DEFINITION
+PAGE 01 OF 22
+Why tokenise your assets?
+Tokenising your assets removes the settlement delays, administrative overhead, and liquidity constraints of traditional securities infrastructure. Here is why Australian fund managers and companies are making the switch.
+SHORT ANSWER
+Tokenising your assets means representing legal ownership as a digital token on a blockchain, replacing paper-based registries, manual settlement processes, and fragmented compliance systems with a single, programmable infrastructure layer. The result is faster settlement, lower administration costs, built-in compliance enforcement, and access to a broader investor base. In Australia, tokenisation is no longer experimental. Over A$2 billion in transactions have been processed on tokenised infrastructure, with more than 160 companies and funds already operating on-chain.
+TL;DR
+Tokenisation replaces manual, paper-based ownership records with digital tokens on a blockchain, enabling automated settlement, compliance, and reporting.
+Australian fund managers and companies using Tokeniser have processed over A$2 billion in transactions across 160+ entities.
+Key advantages: faster settlement, lower administration costs, fractional ownership, automated compliance, and 24/7 liquidity.
+Tokenisation does not change what you own. It changes how ownership is recorded, transferred, and administered.
+Tokeniser is Australia's digital asset administration platform for fund managers, company secretaries, and asset administrators issuing tokenised assets on Redbelly Network.
+The full answer
+The problem with traditional asset administration
+Traditional asset administration was built for a paper-based world. Ownership is recorded in centralised registries. Settlement takes days. Compliance verification is manual and repeated at every transfer. Corporate actions (distributions, capital calls, buy-backs) require coordination across multiple intermediaries, each adding cost and delay.
+For fund managers and company secretaries, this means administrative overhead that scales with the size of your investor base. A fund with 500 investors requires the same manual processes as a fund with 50, just multiplied by ten. The infrastructure has not kept pace with the scale of modern capital markets.
+What tokenisation changes
+Tokenisation moves ownership records on-chain. Every token represents a verified ownership interest. Every transfer is settled atomically, simultaneously and without counterparty risk. Every compliance check is enforced at the protocol layer, not manually at the application layer.
+Atomic settlement
+The transfer of ownership and the corresponding payment complete in the same transaction. There is no settlement window, so neither side carries counterparty risk while a trade is pending.
+The practical result for fund managers: investor onboarding that takes minutes instead of days, settlement that happens in seconds instead of T+2, and compliance that is built into every transaction rather than bolted on afterwards. For investors, it means fractional access to assets that were previously available only to large institutional buyers, and the ability to transfer holdings without waiting for a registry to process the change.
+Investor holdings in Tokeniser: the on-chain register, read as a familiar administration screen.
+The Australian context
+Australia is among the most advanced jurisdictions globally for tokenised asset infrastructure. The Reserve Bank of Australia's Project Acacia is actively exploring the role of wholesale tokenised assets and digital money in Australian financial markets. The Government's March 2025 Statement on Developing an Innovative Australian Digital Asset Industry confirmed that existing legal frameworks, including contract law, property law, and ASIC's regulatory regime, apply to tokenised assets.
+For Australian fund managers and companies, this regulatory clarity removes a significant barrier. You are not operating in a legal grey area. You are operating on infrastructure that has been designed to meet Australian regulatory requirements from the ground up.
+The numbers behind the case
+The Digital Finance Cooperative Research Centre has quantified the potential benefit to the Australian economy at approximately A$24 billion per annum from widespread adoption of tokenised asset infrastructure. At the transaction level, Tokeniser clients have already demonstrated the practical case.
+A$2B+
+transactions processed on tokenised infrastructure
+A$1.2B
+issued equity and fund value
+160+
+companies and funds operating on-chain
+Those entities include Komo Energy, Holon Global Investments, and EnviroMission.
+What it does not change
+Tokenisation changes how ownership is recorded and administered, not what you own or the legal rights attached to it. A tokenised fund unit carries the same legal rights as a traditional unit. A tokenised equity share represents the same ownership interest as a paper certificate. The token is the record, not the asset itself.
+Talk to us about tokenising your fund
+A short conversation covers your structure, your investor base, and what a tokenised register would mean for your administration costs.
+Book a demo
+Contact us
+Frequently asked questions
+Do I need to be a technology company to tokenise my assets?
+×
+No. Tokeniser is designed for fund managers, company secretaries, and asset administrators, not developers. The platform handles the technical infrastructure. Your team manages issuance, compliance, and investor relationships through a professional administration interface.
+Is tokenisation legal in Australia?
++
+Yes. The Australian Government's March 2025 Statement on Developing an Innovative Australian Digital Asset Industry confirmed that existing Australian legal frameworks apply to tokenised assets. ASIC has also provided regulatory relief for tokenised asset settlement research under Project Acacia.
+What types of assets can be tokenised?
++
+Fund units, equity shares, loan notes, and structured products are the most common asset types on Tokeniser. The platform supports any asset class where ownership can be defined and transferred under Australian law.
+How long does it take to tokenise a fund?
++
+The timeline depends on the complexity of your fund structure and investor base. See: How long does it take to tokenise a fund?
+What does tokenisation cost?
++
+See: What does asset tokenisation cost for fund managers?
+Sources
+Reserve Bank of Australia and Digital Finance Cooperative Research Centre. “Project Acacia: Exploring the Role of Digital Money in Wholesale Tokenised Asset Markets.” Consultation Paper, November 2024.
+The Treasury, Australian Government. “Statement on Developing an Innovative Australian Digital Asset Industry.” 21 March 2025.
+Digital Finance Cooperative Research Centre. “Unlocking Australia's $24bn Digital Finance Opportunity.” March 2026.
+Tokeniser. Platform statistics. May 2026.
+Related pages
+What does tokenising your assets enable?
+BUSINESS CASE
+What are the business advantages of asset tokenisation?
+BUSINESS CASE
+What are the risks of asset tokenisation?
+BUSINESS CASE
+How to tokenise a fund in Australia
+AUSTRALIA
+What is Tokeniser?
+PLATFORM
+What is Redbelly Network?
+PLATFORM
+© Tokeniser 2026. All rights reserved.
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+Contact
+Contact sales
+Request a demo
+PRIVACY
+We use cookies
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+Accept all
+Reject all
+Manage preferences

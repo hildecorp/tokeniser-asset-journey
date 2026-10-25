@@ -1,0 +1,108 @@
+SOURCE: https://tokeniser.com/product/getting-started
+TITLE: Getting Started - Tokeniser Product | Tokenisation tailored for your fund
+CAPTURED (UTC): 2026-10-25T14:59:39.760Z
+
+Skip to content
+Product
+Superpowers
+Solutions
+Resources
+Pricing
+About Us
+Login to Tokeniser
+Contact us
+GETTING STARTED
+Tokenisation tailored for your fund
+Adopt tokenisation in stages, without changing your back office all at once. Our practitioners tailor the implementation to your firm.
+Book a Demo
+Why Now
+ADOPTION
+A phased approach you control
+Identifying where to begin with tokenisation can be complex. Tokeniser provides a clear, guided path that you adopt at your own pace.
+1
+Familiar start
+2
+Staged growth
+3
+Full potential
+New opportunities, familiar form factor
+A modern registry with familiar workflows and protocol finance capabilities built in.
+GUIDANCE
+Experts in the field
+Experienced practitioners support your team through each stage.
+STAGE ONE
+Clear onboarding guides for every step
+Detailed documentation guides your team through each phase of adoption.
+STAGE TWO
+A responsive team that coaches you in real time
+When questions arise, your team receives answers from practitioners with direct experience.
+STAGE THREE
+Support matched to your stage of adoption
+Support is most intensive at the outset and reduces as your team builds confidence.
+ARCHITECTURE
+Keep your workflows, layer in new capabilities
+Tokeniser lets you keep your existing workflows while layering in new capabilities.
+Added: Tokeniser layer
+Unchanged: your back office
+JOURNEY
+How it works for Asset Issuers
+Your back-office compliance involves many moving parts that must be upgraded to realise the benefits of protocol finance. Below are our recommended steps, from setup to secondary trading.
+INITIAL STATE
+Onboarding and configuration in weeks
+Adopt Tokeniser from your current position, whether an existing registry service, spreadsheets or a greenfield feeder fund.
+Operate a shadow registry ahead of migration, or begin directly with your company or a fully digitised feeder fund.
+PREPARE COMPLIANCE
+Digital-first workflows
+Review your compliance approach under the new AML/KYC model, and design processes to suit. See how Automated Compliance works →
+FIRST DIGITAL NATIVE ASSET
+Digitised feeder fund
+For a straightforward start, establish a digitised feeder fund in days, without legacy constraints.
+CONFIGURE YOUR EXPERIENCE
+Investor experience
+Tailor your modern, mobile-first investor experience, to provide investors with protocol finance superpowers.
+DISTRIBUTE
+Direct to Investor
+Begin with our investor portal, then establish bilateral or protocol distribution agreements to broaden your reach. See Distribution →
+TRUST
+A trustworthy place to tokenise
+Built on Redbelly, Australia’s public digital token infrastructure and the network chosen by Australia’s central bank for its digital currency project. Tokeniser operates with regulation, security, and financial market realities front of mind.
+REGULATION READY
+Regulation-ready Infrastructure
+Redbelly is a public digital token infrastructure where every participant’s identity is verified at the protocol level, so an open network still meets the accountability the sector requires. Built from the ground up for regulated financial services.
+AVERER
+Investors are verified by Averer before they can transact, with eligibility checks built into the protocol itself.
+See Automated Compliance →
+AUSTRALIA-READY
+Built within Australian public infrastructure
+Redbelly operates under Australian law and governance, built to sit within Australia’s public infrastructure and aligned to the Corporations Act as amended by the Digital Assets Framework. Tokenisation infrastructure that is not dependent on offshore platforms or foreign regulatory frameworks.
+PARTNERSHIP
+Institutional-grade trust and registry with IQ-EQ
+For customers who require a globally licensed institutional operator, we work with IQ-EQ to deliver modern tokenisation technology paired with an operational backbone that auditors and investors recognise.
+Learn more about IQ-EQ Fund Registry Services
+→
+WHY TOKENISE? WHY NOW?
+The case for tokenisation now
+Three briefs covering the commercial case for tokenisation, the current opportunity in Australia, and the cost of delay.
+01
+The commercial case
+02
+The window
+03
+The cost of waiting
+Read the briefs
+Book a Demo
+© Tokeniser 2026. All rights reserved.
+Tokeniser Pty. Ltd. is an Australian company providing compliant asset tokenisation and management solutions.
+Privacy Policy
+Cookie Settings
+Terms & Conditions
+Tokeniser is a Redbelly Network project: born from research at the University of Sydney and Australian Government Science Agency: CSIRO, and built on infrastructure trusted by leading financial institutions.
+Contact
+Contact sales
+Request a demo
+PRIVACY
+We use cookies
+We use cookies to run Tokeniser securely and — with your permission — for analytics and marketing. You can Accept all, Reject all, or choose categories. See our Privacy Policy.
+Accept all
+Reject all
+Manage preferences
