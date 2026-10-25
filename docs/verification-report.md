@@ -1,0 +1,32 @@
+# Verification report
+
+Run 2026-10-25 16:32 UTC by `python3 tools/check.py`. 26 of 26 checks pass.
+
+| Result | Check | Detail |
+| --- | --- | --- |
+| Pass | Every claim is quoted verbatim from a supplied resource | 23 of 23 quotes found word for word in dated snapshots; 0 snapshots altered |
+| Pass | Sources are limited to the supplied resources | 7 pages, all on tokeniser.com or redbelly.network |
+| Pass | Subtitles match the script word for word | SRT and WebVTT carry the 190 voiceover words in order |
+| Pass | Word timings cover the whole script | 190 timed words |
+| Pass | Every word on screen is in the script document | 78 strings drawn by the animation, all listed in the script; 0 listed but not drawn |
+| Pass | Script document matches the video | PDF and Word both hold all 11 voiceover lines and all 23 source quotes; Word holds every on-screen string |
+| Pass | No em dashes or en dashes | checked script, subtitles, documents, website, README, licences and animation text |
+| Pass | No emoji | checked the same files |
+| Pass | No hype words | voiceover and on-screen text checked against the Task Board list of filler words |
+| Pass | No price talk, returns or advice | voiceover and on-screen text contain no prices, returns, yields or calls to buy or sell |
+| Pass | No exclamation marks in the voiceover | calm, corporate tone |
+| Pass | Illustrative example and general information note on screen | shown on the end card |
+| Pass | Commit history follows the voice rules | no dashes, emoji or co-author lines in any commit message |
+| Pass | Video spec: tokeniser-asset-journey.mp4 | 1920 x 1080 (16:9), 60 fps, 86.67 s, H.264 yuv420p, AAC 48000 Hz 2 ch, 13.7 MB |
+| Pass | No personal credit in metadata: tokeniser-asset-journey.mp4 | container tags: major_brand, minor_version, compatible_brands, title, encoder |
+| Pass | Loudness: tokeniser-asset-journey.mp4 | -16.0 LUFS integrated, true peak -1.3 dBTP (target -16 LUFS, -1.5 dBTP) |
+| Pass | Video spec: tokeniser-asset-journey-clean.mp4 | 1920 x 1080 (16:9), 60 fps, 86.67 s, H.264 yuv420p, AAC 48000 Hz 2 ch, 12.8 MB |
+| Pass | No personal credit in metadata: tokeniser-asset-journey-clean.mp4 | container tags: major_brand, minor_version, compatible_brands, title, encoder |
+| Pass | Loudness: tokeniser-asset-journey-clean.mp4 | -16.0 LUFS integrated, true peak -1.3 dBTP (target -16 LUFS, -1.5 dBTP) |
+| Pass | Video length matches the timeline | timeline 86.67 s, video 86.67 s |
+| Pass | Subtitles are burned into the main video | subtitle band differs from the clean version by 34 grey levels on average at 19.7 s |
+| Pass | Voiceover is clear in the final mix | speech recognition of the finished video matches the script with a word error rate of 1.0 percent |
+| Pass | No personal credit in any deliverable | no names, handles, signatures or credit lines in the video, subtitles, documents, metadata or website |
+| Pass | Licence proof for every third party asset | fonts (SIL OFL 1.1), voice (Alba speech corpus, CC BY 4.0; Piper voice model, MIT), music and effects original, made from code |
+| Pass | Website loads nothing from other domains | all scripts, fonts, styles, images and media are served from the site itself |
+| Pass | Every file the website links to exists | 26 local links checked |

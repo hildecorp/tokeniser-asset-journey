@@ -682,7 +682,7 @@
     text(ctx, 'Australian farmland fund', fx + 136, fy + 58, { size: 24, weight: 500 });
     const ver = p(t, Wd('l05', 'verified') - 0.1, 0.5);
     if (ver > 0) chip(ctx, 'Fund verified', fx + 136, fy + 98, { size: 20, fill: C.mint, icon: (c, x, y, s, col) => E.iconCheck(c, x, y, s, col, ver), alpha: ver });
-    else chip(ctx, 'Pending', fx + 136, fy + 98, { size: 20, fill: C.paper2, color: C.muted, audit: false });
+    else chip(ctx, 'Pending', fx + 136, fy + 98, { size: 20, fill: C.paper2, color: C.muted });
 
     // rules flying into the token
     const tx = CONTENT.x + 790, ty = CONTENT.y + 190;

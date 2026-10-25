@@ -21,6 +21,7 @@ node tools/render.cjs --subs
 tools/encode.sh subs
 python3 tools/build_docs.py
 node tools/print_pdf.cjs
+node tools/audit_text.cjs
 python3 tools/build_site.py
 tools/package_project.sh
 python3 tools/check.py || true

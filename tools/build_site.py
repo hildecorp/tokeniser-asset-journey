@@ -22,6 +22,8 @@ def j(path):
 
 
 def size(path):
+    if not os.path.exists(os.path.join(ROOT, path)):
+        return "built by tools/package_project.sh"
     b = os.path.getsize(os.path.join(ROOT, path))
     return f"{b / 1e6:.1f} MB" if b > 1e6 else f"{b / 1e3:.0f} KB"
 

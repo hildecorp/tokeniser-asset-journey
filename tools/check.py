@@ -149,7 +149,7 @@ def docx_text():
 
 
 def check_documents():
-    pdf = norm(run(["pdftotext", "-raw", rel("docs/script/From-Farmland-to-Token-Script.pdf"), "-"]).stdout)
+    pdf = norm(run(["pdftotext", "-raw", rel("docs/script/From-Farmland-to-Token-Script.pdf"), "-"]).stdout.replace("-\n", "-"))
     docx = norm(re.sub(r"\s+", " ", docx_text()))
     def has(doc, t):
         return norm(t) in doc
@@ -229,14 +229,15 @@ def check_credits():
         "pdf": run(["pdftotext", rel("docs/script/From-Farmland-to-Token-Script.pdf"), "-"]).stdout,
         "pdf metadata": run(["pdfinfo", rel("docs/script/From-Farmland-to-Token-Script.pdf")]).stdout.split("Producer")[0],
         "docx": docx_text(),
-        "website": open(rel("index.html")).read(),
+        # the verification report on the page quotes this check's own wording, so it is left out
+        "website": re.sub(r'<div class="checks">.*?<div class="head"', "", open(rel("index.html")).read(), flags=re.S),
         "on-screen": " ".join(onscreen),
     }
     with zipfile.ZipFile(rel("docs/script/From-Farmland-to-Token-Script.docx")) as z:
         texts["docx metadata"] = z.read("docProps/core.xml").decode()
     hits = {k: [p for p in CREDIT if re.search(p, v, re.I)] for k, v in texts.items()}
     hits = {k: v for k, v in hits.items() if v}
-    add("No personal credit in any deliverable", not hits, "no names, handles, signatures or made by lines in the video, subtitles, documents or website" + (f" FOUND {hits}" if hits else ""))
+    add("No personal credit in any deliverable", not hits, "no names, handles, signatures or credit lines in the video, subtitles, documents, metadata or website" + (f" FOUND {hits}" if hits else ""))
 
 
 def check_licences():

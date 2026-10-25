@@ -58,6 +58,14 @@ def shade(cell, hex_fill):
     tcpr.append(shd)
 
 
+def repeat_header(row):
+    """Repeat a table's header row at the top of every page."""
+    trpr = row._tr.get_or_add_trPr()
+    el = OxmlElement("w:tblHeader")
+    el.set(qn("w:val"), "true")
+    trpr.append(el)
+
+
 def para(doc_or_cell, text, size=10, bold=False, color=INK, italic=False, space_after=4, font=None):
     p = doc_or_cell.add_paragraph()
     run = p.add_run(text)
@@ -124,6 +132,7 @@ def build_docx(script, timeline, manifest, times):
     table.style = "Table Grid"
     table.alignment = WD_TABLE_ALIGNMENT.CENTER
     widths = [Cm(2.0), Cm(3.4), Cm(8.4), Cm(5.6), Cm(6.6)]
+    repeat_header(table.rows[0])
     for c, h, w in zip(table.rows[0].cells, ["Time", "Scene", "Voiceover", "On-screen text", "Visual"], widths):
         cell_text(c, [h], 9, True, RGBColor(0xFF, 0xFF, 0xFF))
         shade(c, "343740")
@@ -146,6 +155,7 @@ def build_docx(script, timeline, manifest, times):
     table = doc.add_table(rows=1, cols=4)
     table.style = "Table Grid"
     widths = [Cm(1.6), Cm(7.0), Cm(10.6), Cm(6.8)]
+    repeat_header(table.rows[0])
     for c, h, w in zip(table.rows[0].cells, ["Scene", "Claim in the video", "Source quote (verbatim)", "Source"], widths):
         cell_text(c, [h], 9, True, RGBColor(0xFF, 0xFF, 0xFF))
         shade(c, "343740")
