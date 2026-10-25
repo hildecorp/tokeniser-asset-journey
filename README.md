@@ -13,7 +13,7 @@ The website in this repository (`index.html`) plays the video and shows the full
 | 3. Project files | This repository, also zipped at `downloads/tokeniser-asset-journey-project.zip` |
 | 4. Licence proof | `LICENCES.md` and the licence texts in `licences/` |
 
-Video specs: MP4, H.264 High, 1920 x 1080 (16:9), 60 fps, yuv420p BT.709, AAC 48 kHz stereo, loudness -16 LUFS with true peak at or below -1.5 dBTP.
+Video specs: MP4, H.264 High, 1920 x 1080 (16:9), 60 fps, yuv420p BT.709, AAC 48 kHz stereo, loudness -16 LUFS integrated with true peak below -1 dBTP (measured -1.3 dBTP after AAC encoding).
 
 ## The story
 
